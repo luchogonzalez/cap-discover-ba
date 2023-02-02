@@ -10,6 +10,7 @@
     "express": "^4"
   },
   "devDependencies": {
+    "@types/node": "^18.11.18",
     "sqlite3": "^5.0.4"
   },
   "scripts": {
