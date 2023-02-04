@@ -1,0 +1,41 @@
+{
+  "folders": [
+    {
+      "name": "db",
+      "path": "db"
+    },
+    {
+      "name": "dba-server",
+      "path": "dba-server"
+    },
+    {
+      "name": "cap-discover-ba",
+      "path": "."
+    }
+  ],
+  "extensions": {
+    "recommendations": [
+      "sonarsource.sonarlint-vscode"
+    ]
+  },
+  "settings": {
+    "sonarlint.connectedMode.project": {
+      "connectionId": "sonar-tools-sap",
+      "projectKey": "cap-discover-ba"
+    },
+    "editor.formatOnSave": true,
+    "editor.formatOnSaveMode": "modifications",
+    "editor.codeActionsOnSave": {
+      "source.fixAll": true
+    },
+    "[javascript]": {
+      "editor.defaultFormatter": "dbaeumer.vscode-eslint"
+    },
+    "[typescript]": {
+      "editor.defaultFormatter": "dbaeumer.vscode-eslint"
+    },
+    "[cds]": {
+      "editor.defaultFormatter": "SAPSE.vscode-cds"
+    }
+  }
+}
