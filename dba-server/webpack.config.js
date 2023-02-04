@@ -9,12 +9,12 @@ const commonPaths = require('./build/webpack.common.paths');
 const isProduction = process.env.NODE_ENV == 'production';
 
 const config = {
-    entry: commonPaths.srcPath + '/index.ts',
+    entry: commonPaths.srcPath + '/start.ts',
     devtool: 'source-map',
     target: 'node',
     externals: [nodeExternals()],
     output: {
-        filename: 'index.js',
+        filename: 'start.js',
         path: commonPaths.outputPath
     },
     resolve: {
