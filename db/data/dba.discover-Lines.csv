@@ -1,0 +1,1145 @@
+﻿lineNumber,ramal,description,direction
+100,A,Estación Lanus - Darsena D: a Darsena D,1
+100,A,Estación Lanus - Darsena D: a Estación Lanus,0
+100,B,Estación Lanus - Darsena D por Guemes: a Darsena D por Guemes,1
+100,B,Estación Lanus - Darsena D por Guemes: a Estación Lanus,0
+100,C,Lynch y Aguapey - Darsena D: a Darsena D,1
+100,C,Lynch y Aguapey - Darsena D: a Lynch y Aguapey,0
+101,A,Ramal Barrio Samore: a Barrio Samore,1
+101,A,Ramal Barrio Samoré: a Retiro,0
+101,B,Ramal Necol y C. de Alas: a Puente Alsina,1
+101,B,Ramal Necol y C. de Alas: a Retiro,0
+101,C,Expreso: a Plaza Miserere,1
+101,C,Expreso: a Retiro,0
+102,A,Av. Patricios y Rocha Casares y Gelly: a Av. Patricios y Rocha,0
+102,A,Av. Patricios y Rocha Casares y Gelly: a Casares y Gelly,1
+103,A,Ramal A - Carlos Calvo y Azopardo - Estación Tapiales: Ramal A - Carlos Calvo y Azopardo,1
+103,A,Ramal A - Carlos Calvo y Azopardo - Estación Tapiales: Ramal A - Estación Tapiales,0
+103,B,Ramal B - Carlos Calvo y Azopardo - Mataderos: Ramal B - Carlos Calvo y Azopardo,1
+103,B,Ramal B - Carlos Calvo y Azopardo - Mataderos: Ramal B - Mataderos,0
+103,C,Ramal C - Primera Junta - Estación Tapiales: Ramal C - Estación Tapiales,0
+103,C,Ramal C - Primera Junta - Estación Tapiales: Ramal C - Primera Junta,1
+103,D,Ramal D - Carlos Calvo y Azopardo - Primera Junta: Ramal D - Carlos Calvo y Azopardo,1
+103,D,Ramal D - Carlos Calvo y Azopardo - Primera Junta: Ramal D - Primera Junta,0
+105,A,Ramal Golf: Golf - IDA,0
+105,A,Ramal Golf: Golf - VUELTA,1
+105,B,Ramal Santos Lugares: Santos Lugares / Caseros - IDA,0
+105,B,Ramal Santos Lugares: Santos Lugares / Caseros - VUELTA,1
+106,A,Estación Liniers - Retiro: a Liniers,1
+106,A,Estación Liniers - Retiro: a Retiro,0
+107,A,Eva Peron - Ciudad Universitaria: a Ciudad Universitaria,0
+107,A,Eva Peron - Ciudad Universitaria: a Eva Peron,1
+107,B,Ciudad Universitaria - Av. La Salle y E. Peron: a Ciudad Universitaria,0
+107,B,Ciudad Universitaria - Av. La Salle y E. Peron: por Ramsay,1
+108,A,Retiro - Croacia y Bergamini: a Liniers,0
+108,A,Retiro - Croacia y Bergamini: a Retiro,1
+109,A,Estación Liniers - Correo Central: a Correo Central,0
+109,A,Estación Liniers - Correo Central: Estación Liniers,1
+109,A,Estación Liniers - Correo Central: Estación Liniers,1
+109,B,B - Alvarez Jonte y Gvilan - Correo Central: a Correo Central,0
+109,B,B - Alvarez Jonte y Gvilan - Correo Central: B - Alvarez Jonte y Gvilan,1
+109,C,C-Expreso - Estación Liniers - Correo Central: a Correo Central,0
+109,C,C-Expreso - Estación Liniers - Correo Central: C-Expreso - Estación Liniers,1
+10,A,Estación Tres de Febrero - Villa Dominico: a Palermo,1
+10,A,Estación Tres de Febrero - Villa Dominico: a Wilde,0
+110,A,Facultad de Derecho - Villa Martelli por Saavedra: a Facultad de Derecho por Saavedra,1
+110,A,Facultad de Derecho - Villa Martelli por Saavedra: a Villa Martelli por Saavedra,0
+110,B,Facultad de Derecho - Villa Martelli por Constituyentes: a Facultad de Derecho por Constituyentes,1
+110,B,Facultad de Derecho - Villa Martelli por Constituyentes: a Villa Martelli por Constituyentes,0
+111,A,Carlos Calvo y Azopardo por Villa Concepción - Italia Partido General San Martin: a Carlos Calvo y Azopardo por Villa Concepción,1
+111,A,Carlos Calvo y Azopardo por Villa Concepción - Italia Partido General San Martin: a Italia Partido General San Martin,0
+111,B,Carlos Calvo y Azopardo por Av. De los Constituyentes - Italia Partido General San Martin: a CarlosCalvo y Azopardo por Avde losConstituyentes,1
+111,B,Carlos Calvo y Azopardo por Av. De los Constituyentes - Italia Partido General San Martin: a Italia Partido General San Martin,0
+111,C,Carlos Calvo y Azopardo por Villa Concepción - Italia Partido General San Martin: a Carlos Calvo y Azopardo por Villa Concepción,1
+111,C,Carlos Calvo y Azopardo por Villa Concepción - Italia Partido General San Martin: a Italia Partido General San Martin,0
+111,D,Carlos Calvo y Azopardo - Chacarita: a Carlos Calvo y Azopardo,1
+111,D,Carlos Calvo y Azopardo - Chacarita: a Chacarita,0
+111,E,Carlos Calvo y Azopardo - Av. De los Constituyentes y Av. Gral Paz: a Av. De los Constituyentes y Av. Gral Paz,0
+111,E,Carlos Calvo y Azopardo - Av. De los Constituyentes y Av. Gral Paz: a Carlos Calvo y Azopardo,1
+111,F,Carlos Calvo y Azopardo por Paraguay - Av. De los Constituyentes y Av. Gral Paz: a Av. De los Constituyentes y Av. Gral Paz,0
+111,F,Carlos Calvo y Azopardo por Paraguay - Av. De los Constituyentes y Av. Gral Paz: a Carlos Calvo y Azopardo por Paraguay,1
+113,A,Estación Belgrano - San Justo: a Boyaca,0
+113,A,Estación Belgrano - San Justo: a Gavilan,1
+113,B,Estación Belgrano por José Aritgas - San Justo: a Artigas,0
+113,B,Estación Belgrano por José Aritgas - San Justo: a Bolivia,1
+114,A,A - Estación Belgrano - Terminal de Puente La Noria: A - Estación Belgrano,1
+114,A,A - Estación Belgrano - Terminal de Puente La Noria: a Terminal de Puente La Noria,0
+114,B,B - Estación Belgrano - Terminal de Puente La Noria por Parque de la Ciudad: a Terminal de Puente La Noria por Parque de la Ciudad,0
+114,B,B - Estación Belgrano - Terminal de Puente La Noria por Parque de la Ciudad: B - Estación Belgrano,1
+114,C,C - Estación Belgrano - Av. Cnel. Roca y Saladillo: Av. Cnel. Roca y Saladillo,0
+114,C,C - Estación Belgrano - Av. Cnel. Roca y Saladillo: C - Estación Belgrano,1
+115,A,Retiro - Barrio General Manuel Savio: a Barrio General Manuel Savio,0
+115,A,Retiro - Barrio General Manuel Savio: a Retiro,1
+115,B,Retiro - Plaza Miserere: a Plaza Miserere,0
+115,B,Retiro - Plaza Miserere: a Retiro,1
+117,A,Estación Rivadavia - Estación Ing. Budge: a EstaciónRivadavia,1
+117,A,Estación Rivadavia - Estación Ing. Budge: a Villa Albertina - Sta. Marta,0
+117,B,Iparraguirre y Juan XXIII - Estación Liniers: a EstaciónRivadavia por Baradero,1
+117,B,Iparraguirre y Juan XXIII - Estación Liniers: a Villa Albertina - Sta Marta por Baradero,0
+117,C,Estación Liniers - Estación Rivadavia: a Liniers,0
+118,A,Parque Patricios - Estación Belgrano: A - Bcas. de Belgrano,0
+118,A,Parque Patricios - Estación Belgrano: A - Parque Patricios,1
+118,B,Plaza Miserere - Estación Belgrano: B - Bcas. de Belgrano,0
+118,B,Plaza Miserere - Estación Belgrano: B - Plaza Miserere,1
+119,A,Estación Chacarita - Estación Lan˙s: Centro Transbordo Chacarita,0
+119,A,Estación Chacarita - Estación Lan˙s: Estación Lanus,1
+123,A,Chacarita - El Palomar: a Chacarita,1
+123,A,Chacarita - El Palomar: a El Palomar,0
+124,A,Facultad de Derecho - 9 de Julio y C. Pellegrini: a 9 de Julio y C. Pellegrini,0
+124,A,Facultad de Derecho - 9 de Julio y C. Pellegrini: a Facultad de Derecho,1
+124,B,Facultad de Derecho - Baigorria y Av. Nazca: a Baigorria y Av. Nazca,0
+124,B,Facultad de Derecho - Baigorria y Av. Nazca: a Facultad de Derecho,1
+126,A,Retiro - Av. Mons. Rodolfo Bufano : a Cementerio de Villegas,0
+126,A,Retiro - Av. Mons. Rodolfo Bufano: a Cementerio de Villegas,0
+126,A,Retiro - Av. Mons. Rodolfo Bufano: a Tribunales de Retiro/Hospital Ferroviario,1
+126,B,Retiro - Peribebuy y Mocoretá : a Tablada,0
+126,B,Retiro - Peribebuy y Mocoretá: a Tablada,0
+126,B,Retiro - Peribebuy y Mocoretá: a Tribunales de Retiro/Hospital Ferroviario,1
+126,C,Av. Directorio y Av. José María Moreno - Av. Mons. Rodolfo Bufano: a Av. Directorio y Av. José Marína Moreno,1
+126,C,Av. Directorio y Av. José María Moreno - Av. Mons. Rodolfo Bufano: a Av. Mons. Rodolfo Bufano,0
+126,D,Av. Directorio y Av. José María Moreno - Peribebuy y Mocoretá: a Av. Directorio y Av. José Marína Moreno,1
+126,D,Av. Directorio y Av. José María Moreno - Peribebuy y Mocoretá: a Peribebuy y Mocoretá,0
+126,E,Expreso por Autopista - Retiro - Av. Mons. Rodolfo Bufano: a Cementerio de Villegas,1
+126,E,Expreso por Autopista - Retiro - Av. Mons. Rodolfo Bufano: Expreso por Autopista,0
+126,E,Expreso por Autopista - Retiro - Av. Mons. Rodolfo Bufano: Expreso por Autopista,0
+126,F,Expreso por Autopista - Retiro - Peribebuy y Mocoretá: a Tablada,1
+126,F,Expreso por Autopista - Retiro - Peribebuy y Mocoretá: Expreso por Autopista,0
+126,F,Expreso por Autopista - Retiro - Peribebuy y Mocoretá: Expreso por Autopista,0
+127,A,Plaza Martin Fierro - colectora Panamericana y Ruta 202: a Panamericana y Ruta 202,0
+127,A,Plaza Martin Fierro - colectora Panamericana y Ruta 202: a Pza Martín Fierro,1
+128,A,Plaza Italia - Valentín Alsina: a Plaza Italia,1
+128,A,Plaza Italia - Valentín Alsina: a Valentin Alsina,0
+129,A,A - Plaza de Miserere - Terminal de Ómnibus La Plata: A - Plaza de Miserere,1
+129,A,A - Plaza de Miserere - Terminal de Ómnibus La Plata: a Terminal de Ómnibus La Plata,0
+129,B,B - Plaza de Miserere - Terminal de Ómnibus La Plata: a Terminal de Ómnibus La Plata,0
+129,B,B - Plaza de Miserere - Terminal de Ómnibus La Plata: B - Plaza de Miserere,1
+129,C,C - Plaza de Miserere - Rotonda Gutiérrez: a Rotonda Gutiérrez,0
+129,C,C - Plaza de Miserere - Rotonda Gutiérrez: C - Plaza de Miserere,1
+129,D,D - Plaza de Miserere - Terminal de Ómnibus La Plata: a Terminal de Ómnibus La Plata,0
+129,D,D - Plaza de Miserere - Terminal de Ómnibus La Plata: D - Plaza de Miserere,1
+129,E,E - Plaza de Miserere - Terminal de Ómnibus La Plata: a Terminal de Ómnibus La Plata,0
+129,E,E - Plaza de Miserere - Terminal de Ómnibus La Plata: E - Plaza de Miserere,1
+129,F,F - Plaza de Miserere - Terminal de Ómnibus La Plata: a Terminal de Ómnibus La Plata,0
+129,F,F - Plaza de Miserere - Terminal de Ómnibus La Plata: F - Plaza de Miserere,1
+129,G,G - Plaza de Miserere - Barrio El Rocío: a Barrio El Rocíno,0
+129,G,G - Plaza de Miserere - Barrio El Rocío: a G - Plaza de Miserere,1
+129,H,H - Plaza de Miserere - Ing. Allan: a Ing. Allan,0
+129,H,H - Plaza de Miserere - Ing. Allan: H - Plaza de Miserere,1
+129,I,I - Plaza de Miserere - Terminal de Ómnibus La Plata: a Terminal de Ómnibus La Plata,0
+129,I,I - Plaza de Miserere - Terminal de Ómnibus La Plata: I - Plaza de Miserere,1
+129,J,J - Plaza Constitución - Terminal de Ómnibus La Plata: a Terminal de Ómnibus La Plata,0
+129,J,J - Plaza Constitución - Terminal de Ómnibus La Plata: J - Plaza Constitución,1
+129,K,K - Plaza Constitución - Barrio Marítimo: a Barrio Maríntimo,0
+129,K,K - Plaza Constitución - Barrio Marítimo: K - Plaza Constitución,1
+129,L,L - Retiro - Terminal de Ómnibus La Plata: a Terminal de Ómnibus La Plata,0
+129,L,L - Retiro - Terminal de Ómnibus La Plata: L - Retiro,1
+129,M,M - Retiro - Terminal de Ómnibus La Plata: a Terminal de Ómnibus La Plata,0
+129,M,M - Retiro - Terminal de Ómnibus La Plata: M - Retiro,1
+129,N,N - Retiro - Terminal de Ómnibus La Plata: a Terminal de Ómnibus La Plata,0
+129,N,N - Retiro - Terminal de Ómnibus La Plata: N - Retiro,1
+12,N,— - Retiro - Estación Fcio. Varela: Estación Fcio. Varela,0
+12,N,— - Retiro - Estación Fcio. Varela: íë - Retiro,1
+129,O,O - Estación Marcelo T. de Alvear - Terminal de Ómnibus La Plata: a Terminal de Ómnibus La Plata,0
+129,O,O - Estación Marcelo T. de Alvear - Terminal de Ómnibus La Plata: O - Estación Marcelo T. de Alvear,1
+129,P,P-Expreso - Plaza de Miserere - Terminal de Ómnibus La Plata: a Terminal de Ómnibus La Plata,0
+129,P,P-Expreso - Plaza de Miserere - Terminal de Ómnibus La Plata: P-Expreso - Plaza de Miserere,1
+129,Q,Q-Expreso - Retiro - Terminal de Ómnibus La Plata: a Terminal de Ómnibus La Plata,0
+129,Q,Q-Expreso - Retiro - Terminal de Ómnibus La Plata: Q-Expreso - Retiro,1
+129,R,R-Expreso - Estación Marcelo T. de Alvear - Terminal de Ómnibus La Plata: a Terminal de Ómnibus La Plata,0
+129,R,R-Expreso - Estación Marcelo T. de Alvear - Terminal de Ómnibus La Plata: R-Expreso - Estación Marcelo T. de Alvear,1
+12,A,Puente Pueyrredón - Plaza Falucho: a Barracas,1
+12,A,Puente Pueyrredón - Plaza Falucho: a Palermo,0
+12,B,Plaza Constitución - Plaza Falucho: a Constitución,1
+12,B,Plaza Constitución - Plaza Falucho: a Palermo,0
+130,A,La Boca - Estación Boulogne: a Estación Bulogne,0
+130,A,La Boca - Estación Boulogne: a La Boca por Munro,1
+130,B,La Boca - Estación Boulogne por Autopista Ing. Pascual Palazzo: a Estación Bulogne,0
+130,B,La Boca - Estación Boulogne por Autopista Ing. Pascual Palazzo: a La Boca por Autopista,1
+132,A,Cementerio de Flores por Av. Carabobo - Retiro: a Cementerio de Flores por Av. Carabobo,1
+132,A,Cementerio de Flores por Av. Carabobo - Retiro: a Retiro,0
+132,B,Plaza Miserere - Retiro: a Plaza Miserere,1
+132,B,Plaza Miserere - Retiro: a Retiro,0
+132,C,Cementerio de Flores por Plaza Pueyrredon - Retiro: a Cementerio de Flores por Plaza Pueyrredon,1
+132,C,Cementerio de Flores por Plaza Pueyrredon - Retiro: a Retiro,0
+133,A,A - Barracas - Florida: A - Barracas,1
+133,A,A - Barracas - Florida: A - Florida,0
+133,B,B - Barracas - Nazca y Gaona: B - Barracas,1
+133,B,B - Barracas - Nazca y Gaona: B - Nazca y Gaona,0
+133,C,C - Estación General Urquiza - Florida: C - Estación General Urquiza,1
+133,C,C - Estación General Urquiza - Florida: C - Florida,0
+133,D,D - Barracas - Estación Transf. Vte. López: D - Barracas,1
+133,D,D - Barracas - Estación Transf. Vte. López: D - Estación Transf. Vte. López,0
+134,A,Barrio Nicolas Avellaneda - Estación Devoto: a Barrio Nicolas Avellaneda,0
+134,A,Barrio Nicolas Avellaneda - Estación Devoto: a Estación Devoto,1
+134,B,Pedernera y Av. Rivadavia - Cantilo y Sanabria: a Cantilo y Sanabria,1
+134,B,Pedernera y Av. Rivadavia - Cantilo y Sanabria: a Pedernera y Av. Rivadavia,0
+135,A,Puente Uriburu - Posadas: a Hospital Posadas,0
+135,A,Puente Uriburu - Posadas: a Puente Alsina,1
+136,A,5423 RIVADAVIA AV.->PARROQUIA NUESTRA SE—ORA DEL CARMEN Y CALLE 121: Ramal A - a Navarro,0
+136,A,CALLE 119 Y CALLE 18->5423 RIVADAVIA AV.: 5423 RIVADAVIA AV.,1
+136,A,Ramal A - Primera Junta - Navarro: Ramal A - a Navarro,0
+136,A,Ramal A - Primera Junta - Navarro: Ramal A - Primera Junta,1
+136,B,5423 RIVADAVIA AV.->BELGRANO Y 25 DE MAYO: Ramal B - a Marcos Paz,0
+136,B,Ramal B - Primera Junta - Marcos Paz: Ramal B - a Marcos Paz,0
+136,B,Ramal B - Primera Junta - Marcos Paz: Ramal B - Primera Junta,1
+136,B,SARMIENTO Y ALSINA->5423 RIVADAVIA AV.: 5423 RIVADAVIA AV.,1
+136,C,5423 RIVADAVIA AV.->MOZART Y NATALE: Ramal C - a Barrio Parque San Martín,0
+136,C,MOZART Y BENAVENTE->5423 RIVADAVIA AV.: 5423 RIVADAVIA AV.,1
+136,C,Ramal C - Primera Junta - Barrio Parque San Martín: Ramal C - a Barrio Parque San Martín,0
+136,C,Ramal C - Primera Junta - Barrio Parque San Martín: Ramal C - Primera Junta,1
+136,D,Ramal D - Liniers - Marcos Paz: Ramal D - a Marcos Paz,0
+136,D,Ramal D - Liniers - Marcos Paz: Ramal D - Liniers,1
+136,E,5423 RIVADAVIA AV.->PARROQUIA NUESTRA SE—ORA DEL CARMEN Y CALLE 121: Ramal E - Expreso a Navarro,0
+136,E,CALLE 119 Y CALLE 18->5423 RIVADAVIA AV.: 5423 RIVADAVIA AV.,1
+136,E,E-Expreso - Primera Junta - Navarro: E-Expreso - Primera Junta,1
+136,E,E-Expreso - Primera Junta - Navarro: Ramal E - Expreso a Navarro,0
+140,A,A - CCK - Estación Boulogne (Línea Mitre): A - CCK,1
+140,A,A - CCK - Estación Boulogne (Línea Mitre): A - Estación Boulogne (Línea Mitre),0
+140,B,B - CCK - Alvarez Thomas y Lacroze: B - Alvarez Thomas y Lacroze,0
+140,B,B - CCK - Alvarez Thomas y Lacroze: B - CCK,1
+140,C,C - CCK - Estación General Urquiza (Línea Mitre): C - CCK,1
+140,C,C - CCK - Estación General Urquiza (Línea Mitre): C - Estación General Urquiza (Línea Mitre),0
+140,D,D - CCK - Av. Congreso y Bucarelli: D - Av. Congreso y Bucarelli,0
+140,D,D - CCK - Av. Congreso y Bucarelli: D - CCK,1
+143,A,A - Pto. Nuevo - Tapiales: A - Pto. Nuevo,1
+143,A,A - Pto. Nuevo - Tapiales: a Tapiales,0
+143,B,B - Pto. Nuevo por Soldado Juan Rava - Tapiales: a Tapiales,0
+143,B,B - Pto. Nuevo por Soldado Juan Rava - Tapiales: B - Pto. Nuevo por Soldado Juan Rava,1
+143,C,C - Pto. Nuevo por Unanué y Av. General Fraco. Fernandez de la Cruz - Tapiales: a Tapiales,0
+143,C,C - Pto. Nuevo por Unanué y Av. General Fraco. Fernandez de la Cruz - Tapiales: C-Pto. Nuevo por Unanué y Av. GeneralFco.FdezdelaCruz,1
+143,D,D - Pto. Nuevo - Puente La Noria: a Puente La Noria,0
+143,D,D - Pto. Nuevo - Puente La Noria: D - Pto. Nuevo,1
+143,E,E - Pto. Nuevo por Unanué - Villa Celina: a E - Pto. Nuevo por Unanué,1
+143,E,E - Pto. Nuevo por Unanué - Villa Celina: a Villa Celina,0
+143,F,F - Pto. Nuevo por Soldado Juan Rava y Av. General Fraco. Fernandez de la Cruz - Tapiales: a Tapiales,0
+143,F,F - Pto. Nuevo por Soldado Juan Rava y Av. General Fraco. Fernandez de la Cruz - Tapiales: F-P.Nuevo por Soldado Rava y Av.GeneralF.FdezdelaCruz,1
+143,G,G - Pto. Nuevo por Soldado Juan Rava - Villa Celina: a G - Pto. Nuevo por Soldado Juan Rava,1
+143,G,G - Pto. Nuevo por Soldado Juan Rava - Villa Celina: a Villa Celina,0
+145,A,Plaza Italia - Villa Albertina: a Plaza Italia,1
+145,A,Plaza Italia - Villa Albertina: a Villa Albertina,0
+145,B,Plaza Italia por Barrio General Savio - Villa Albertina: a Plaza Italia por Barrio General Savio,1
+145,B,Plaza Italia por Barrio General Savio - Villa Albertina: a Villa Albertina,0
+145,C,Plaza Italia - Mercado Central: a Plaza Italia,1
+145,C,Plaza Italia - Mercado Central: a Villa Celina,0
+146,A,Ciudadela - Correo Central: a Ciudadela,0
+146,A,Ciudadela - Correo Central: a Correo Central,1
+146,B,Correo Central - Ciudadela: a Ciudadela,0
+146,B,Correo Central - Ciudadela: a Correo Central,1
+148,A,Plaza Constitución - Cementerio Fcio. Varela: a Constitución,1
+148,A,Plaza Constitución - Cementerio Fcio. Varela: C - Cementerio,0
+148,B,Plaza Constitución - Paraje el Tropezon: a Constitución,1
+148,B,Plaza Constitución - Paraje el Tropezon: C - Capilla,0
+148,C,Plaza Constitución - Paraje El Alpino: a Constitución,1
+148,C,Plaza Constitución - Paraje El Alpino: C - Alpino,0
+148,D,Plaza Constitución - Thevenet y Ruta Provincial 36: a Constitución,1
+148,D,Plaza Constitución - Thevenet y Ruta Provincial 36: H - V. del Plata,0
+148,E,Plaza Constitución - Del Campo y Av. Fcio. Varela: a Constitución,1
+148,E,Plaza Constitución - Del Campo y Av. Fcio. Varela: B - Jalón,0
+148,F,Plaza Constitución - Dardo Rocha y Lavalle: a Constitución,1
+148,F,Plaza Constitución - Dardo Rocha y Lavalle: B - Acceso,0
+148,G,Plaza Constitución - Estación San Francisco Solano (por 844): a Constitución,1
+148,G,Plaza Constitución - Estación San Francisco Solano (por 844): E por 844,0
+148,H,Plaza Constitución - Estación San Francisco Solano (por Monteverde): a Constitución,1
+148,H,Plaza Constitución - Estación San Francisco Solano (por Monteverde): F por Monteverde,0
+148,I,Plaza Constitución - Av. Donato Alvarez y Monteverde: a Constitución,1
+148,I,Plaza Constitución - Av. Donato Alvarez y Monteverde: G por San Martín,0
+148,J,Plaza Constitución - Estación San Francisco Solano (por Pasco): a Constitución,1
+148,J,Plaza Constitución - Estación San Francisco Solano (por Pasco): I por Pasco,0
+150,A,Villa Madero - Hospital Ferroviario Ramal Aeronáutico: a Lugano I y II Pompeya por Hospital Aeronáutico,0
+150,A,Villa Madero - Hospital Ferroviario Ramal Aeronáutico: a Retiro Tribunales por Hospital Aeronáutico,1
+150,B,Villa Madero - Hospital Ferroviario Estación Saenz: a Lugano I y II Pompeya por Estación Saenz,0
+150,B,Villa Madero - Hospital Ferroviario Estación Saenz: a Retiro Tribunales por Estación Saenz,1
+151,A,Plaza Constitución - Estación de Transf. Vicente López: a Puente Saavedra,0
+151,A,Plaza Constitución - Estación de Transf. Vicente López: a Plaza Constitución,1
+152,A,La Boca - Olivos: A - a La Boca,1
+152,A,La Boca - Olivos: A - a Olivos,0
+152,B,La Boca - Estación Bartolome Mitre: B - a Estación Mitre,0
+152,B,La Boca - Estación Bartolome Mitre: B - a La Boca,1
+152,C,Expreso - La Boca - Olivos: C - Semirapido por Autopista a La Boca,1
+152,C,Expreso - La Boca - Olivos: C - Semirapido por Autopista a Olivos,0
+153,A,Estación Liniers - Av. Bella Vista y Medina: a Barrio Nuevo,0
+153,A,Estación Liniers - Av. Bella Vista y Medina: a Liniers,1
+154,A,Plaza Constitución - Estación Lanus: a Estación Lanus,1
+154,A,Plaza Constitución - Estación Lanus: a Plaza Constitución,0
+158,A,Nueva Pompeya - Lanus: a Estación Lanus,0
+158,A,Nueva Pompeya - Lanus: a Nueva Pompeya,1
+159,A,CCK - Rotonda J. María Gutierrez: L (Azul) Alpargatas,0
+159,A,CCK - Rotonda J. María Gutierrez: L (Azul) Correo Central,1
+159,B,CCK por Av. La Plata - Rotonda J. María Gutierrez: L (Roja) Alpargatas,0
+159,B,CCK por Av. La Plata - Rotonda J. María Gutierrez: L (Roja) Correo Central,1
+159,C,CCK - Pueblo Nuevo: L (Roja) Correo Central,1
+159,C,CCK - Pueblo Nuevo: L (Roja) Pueblo Nuevo,0
+159,D,CCK por Av. General Barrio Mitre - Cruce Fcio. Varela: 1 hacia C Central,1
+159,D,CCK por Av. General Barrio Mitre - Cruce Fcio. Varela: 1 hacia C Varela,0
+159,E,CCK - Estación Berazategui: 2 hacia Berazategui,0
+159,E,CCK - Estación Berazategui: 2 hacia C Central,1
+159,F,CCK - Barrio Gráfico: a BG - Barrio Grafico,0
+159,F,CCK - Barrio Gráfico: a Correo Central,1
+159,H,Expreso - CCK - Barrio Gráfico: a Barrio Gráfico - Expreso,0
+159,H,Expreso - CCK - Barrio Gráfico: a Correo Central - Expreso,1
+159,I,CCK por AutopistaLa Plata y Acceso Sudeste - Estación Quilmes: Semirapido Quilmes hacia Capital,1
+159,I,CCK por AutopistaLa Plata y Acceso Sudeste - Estación Quilmes: Semirápido Quilmes por Urquiza,0
+159,J,CCK por AutopistaLa Plata - Estación Berazategui: Semirápido Begui hacia Begui,0
+159,J,CCK por AutopistaLa Plata - Estación Berazategui: Semirápido Begui hacia Capital,1
+159,K,CCK por AutopistaLa Plata - Ex Malteria Hudson: Semirápido Hudson hacia Capital,1
+159,K,CCK por AutopistaLa Plata - Ex Malteria Hudson: Semirápido Hudson hacia Hudson,0
+15,A,Valentín Alsina - Estación Benavídez: a Estación Benavíndez,0
+15,A,Valentín Alsina - Estación Benavídez: a Valentín Alsina,1
+15,A,ORO VERDE (Escuela Alberdi)-PARAN¡ (Casa de Gobierno): ORO VERDE (Escuela Alberdi),1
+15,A,ORO VERDE (Escuela Alberdi)-PARAN¡ (Casa de Gobierno): PARAN¡ (Casa de Gobierno),0
+15,B,Valentín Alsina - Estación Benavídez por Hospital Naval: a Estación Benavíndez por Hospital Naval,0
+15,B,Valentín Alsina - Estación Benavídez por Hospital Naval: a Valentín Alsina por Hospital Naval,1
+15,B,ORO VERDE (Inta)-PARAN¡ (Casa de Gobierno): ORO VERDE (Inta),1
+15,B,ORO VERDE (Inta)-PARAN¡ (Casa de Gobierno): PARAN¡ (Casa de Gobierno),0
+15,C,Valentín Alsina - Estación General Pacheco: a Estación General Pacheco,0
+15,C,Valentín Alsina - Estación General Pacheco: a Valentín Alsina,1
+15,D,Valentín Alsina  - Colectora Panamericana y Ruta Provincial 23: a Colectora Panamericana y Ruta Provincial 23,0
+15,D,Valentín Alsina  - Colectora Panamericana y Ruta Provincial 23: a Valentín Alsina,1
+15,E,Valentín Alsina - Barrio 1∞ de Mayo: a Barrio 1¬∞ de Mayo,0
+15,E,Valentín Alsina - Barrio 1∞ de Mayo: a Valentín Alsina,1
+15,F,Valentín Alsina - Av. Del Libertador y Pico: a Av. Del Libertador y Pico,0
+15,F,Valentín Alsina - Av. Del Libertador y Pico: a Valentín Alsina,1
+15,G,Valentín Alsina - Bcas. de Belgrano: a Bcas. de Belgrano,0
+15,G,Valentín Alsina - Bcas. de Belgrano: a Valentín Alsina,1
+15,H,Expreso - Valentín Alsina - Estación Benavídez: Expreso - Estación Benavíndez,0
+15,H,Expreso - Valentín Alsina - Estación Benavídez: Expreso - Valentín Alsina,1
+15,I,Valentín Alsina - Estación Benavídez por Hospital Naval: a Estación Benavíndez por Hospital Naval,0
+15,I,Valentín Alsina - Estación Benavídez por Hospital Naval: a Valentín Alsina,1
+15,J,Valentín Alsina - Estación General Pacheco: a Estación General Pacheco,0
+15,J,Valentín Alsina - Estación General Pacheco: a Valentín Alsina,1
+15,K,Valentín Alsina  - Colectora Panamericana y Ruta Provincial 23: a Colectora Panamericana y Ruta Provincial 23,0
+15,K,Valentín Alsina  - Colectora Panamericana y Ruta Provincial 23: a Valentín Alsina,1
+15,L,Valentín Alsina - Ex Fca. Wobron: a Ex Fca. Wobron,0
+15,L,Valentín Alsina - Ex Fca. Wobron: a Valentín Alsina,1
+160,A,Ciudad Universitaria - Barrio Don Oriono por Aguas Arg.. y Alsina: a Barrio Don Orione por Aguas Arg.. y A.Alsina,0
+160,A,Ciudad Universitaria - Barrio Don Oriono por Aguas Arg.. y Alsina: a Ciudad Universitaria por Aguas Arg. y A.Alsina,1
+160,B,Ciudad Universitaria - Barrio Don Oriono por Aguas Arg.. y Joaquin V. González: a Barrio Don Orione por Aguas Arg.. y J. V. González,0
+160,B,Ciudad Universitaria - Barrio Don Oriono por Aguas Arg.. y Joaquin V. González: a Cdad Universitaria por Aguas Arg y J. V. González,1
+160,C,Ciudad Universitaria - Barrio Don Oriono por Aeroparque y Alsina: a Barrio Don Orione por Aeroparque y A.Alsina,0
+160,C,Ciudad Universitaria - Barrio Don Oriono por Aeroparque y Alsina: a Ciudad Universitaria por Aeroparque y A.Alsina,1
+160,D,Ciudad Universitaria - Barrio Don Oriono por Aeroparque y Joaquien González: a Barrio Don Orione por Aeroparque y J. V. González,0
+160,D,Ciudad Universitaria - Barrio Don Oriono por Aeroparque y Joaquien González: a Cdad Universitaria por Aeroparque y J.V González,1
+160,E,Estación 3 de Febrero - Barrio Don Orione por Alsina: a Barrio Don Orione por A.Alsina,0
+160,E,Estación 3 de Febrero - Barrio Don Orione por Alsina: a Palermo por A. Alsina,1
+160,F,Estación 3 de Febrero - Barrio Don Orione por Joaquin V. González: a Barrio Don Orione por J. V. González,0
+160,F,Estación 3 de Febrero - Barrio Don Orione por Joaquin V. González: a Palermo por J. V. González,1
+160,G,Ciudad Universitaria - Estación Lanus por Aguas Arg.entinas: a Ciudad Universitaria. por Gimnasia,1
+160,G,Ciudad Universitaria - Estación Lanus por Aguas Arg.entinas: a Pompeya por Gimnasia,0
+160,H,Ciudad Universitaria - Nueva Pompeya por Aeroparque: a Ciudad Universitaria por Aeroparque,1
+160,H,Ciudad Universitaria - Nueva Pompeya por Aeroparque: a Pompeya por Aeroparque,0
+160,I,Nueva Pompeya - Nueva Pompeya por Aeroparque: a Barrio Don Orione por A. Alsina,0
+160,I,Nueva Pompeya - Nueva Pompeya por Aeroparque: a Pompeya por A. Alsina,1
+160,J,Nueva Pompeya - Nueva Pompeya por Joaquin V. González: a Barrio Don Orione por J. V. González,0
+160,J,Nueva Pompeya - Nueva Pompeya por Joaquin V. González: a Pompeya por J. V. González,1
+160,K,Ciudad Universitaria - Nueva Pompeya por Aguas Arg.: a Ciudad Universitaria. por Gimnasia,1
+160,K,Ciudad Universitaria - Nueva Pompeya por Aguas Arg.: a Estación Lanus por Gimnasia,0
+160,L,Ciudad Universitaria - Estación Lanus por Aeroparque: a Ciudad Universitaria por Aeroparque,1
+160,L,Ciudad Universitaria - Estación Lanus por Aeroparque: a Estación Lanus por Aeroparque,0
+160,M,Nueva Pompeya por Adolfo Alsina - Barrio Don Orione: M - Don Orione por A. Alsina,0
+160,M,Nueva Pompeya por Adolfo Alsina - Barrio Don Orione: M - Palermo por A. Alsina,1
+160,N,Expreso por Aguas Arg.. - Ciudad Universitaria - Plaza Italia: Expreso - Ciudad Universitaria por Gimnasia,1
+160,N,Expreso por Aguas Arg.. - Ciudad Universitaria - Plaza Italia: Expreso - Plaza Italia por Gimnasia,0
+161,A,Palermo - Ciudadela por Florida: a Liniers por Villa Martelli,0
+161,A,Palermo - Ciudadela por Florida: a Plaza Italia por Florida,1
+161,B,Palermo - Ciudadela por Villa Martelli: a Liniers por Florida,0
+161,B,Palermo - Ciudadela por Villa Martelli: a Plaza Italia por Villa Martelli,1
+163,A,5423 RIVADAVIA AV.->AVENIDA PRIMERA JUNTA 1-49: A - a San Miguel,0
+163,A,AVENIDA PRIMERA JUNTA 1-49->5423 RIVADAVIA AV.: 5423 RIVADAVIA AV.,1
+163,A,Ramal A - Primera Junta - San Miguel: A - a San Miguel,0
+163,A,Ramal A - Primera Junta - San Miguel: Ramal A - Primera Junta,1
+163,B,Ramal B - Liniers - San Miguel: B - a San Miguel,0
+163,B,Ramal B - Liniers - San Miguel: Ramal B - Liniers,1
+163,C,5423 RIVADAVIA AV.->AVENIDA PRIMERA JUNTA 1-49: C - Expreso a San Miguel,0
+163,C,AVENIDA PRIMERA JUNTA 1-49->5423 RIVADAVIA AV.: 5423 RIVADAVIA AV.,1
+163,C,C-Expreso - Primera Junta - San Miguel: C - Expreso a San Miguel,0
+163,C,C-Expreso - Primera Junta - San Miguel: C-Expreso - Primera Junta,1
+164,A,Ramal A por Bv Buenos Aires: Monte Grande por Bv Buenos Aires,1
+164,A,Ramal A por Bv Buenos Aires: Plaza Miserere por Bv Buenos Aires,0
+164,B,Ramal B por Garibaldi: Burzaco por Garibaldi,1
+164,B,Ramal B por Garibaldi: Pompeya por Garibaldi,0
+164,C,Ramal C por Oliden: Monte Grande por Oliden,1
+164,C,Ramal C por Oliden: Pompeya por Oliden,0
+166,A,Estación Morón: a Morón por Gaona,0
+166,A,Estación Morón: a Palermo,1
+166,B,Ruta 1003: a Barrio Nuevo por Haedo,0
+166,B,Ruta 1003: a Palermo por Haedo,1
+168,A,La Boca - San Isidro: a La Boca por Colegiales - Once,1
+168,A,La Boca - San Isidro: a San Isidro por Colegiales - Cabildo,0
+168,B,La Boca - Puente Saavedra por Av. Cordoba: a La Boca por Colegiales - Once,1
+168,B,La Boca - Puente Saavedra por Av. Cordoba: a Saavedra por Once - Colegiales,0
+168,C,La Boca - Puente Saavedra por COncep. Arenal: a La Boca por Concepción Arenal,1
+168,C,La Boca - Puente Saavedra por COncep. Arenal: a Puente Saavedra por Concepción Arenal,0
+168,D,La Boca - Av. Cordoba y Darwin: a Av. Cordoba y Darwin,0
+168,D,La Boca - Av. Cordoba y Darwin: a La Boca,1
+169,A,Av. Congreso y Amenabar - Loma Hermosa por Estación Martin Coronado: a Estación Coronado-Av. Congreso y Cabildo-Subte D,0
+169,A,Av. Congreso y Amenabar - Loma Hermosa por Estación Martin Coronado: a Estación Coronado-Puerta 8-Barrio Escalada,1
+169,B,Av. Congreso y Amenabar - Loma Hermosa por Estación Pablo Podesta: a Estación Podesta-Av. Congreso y Cabildo-Subte D,0
+169,B,Av. Congreso y Amenabar - Loma Hermosa por Estación Pablo Podesta: a Estación Podesta-Puerta 8-Barrio Escalada,1
+172,A,Alberdi - Rigloes - Polledo - Santa Cruz - Barrio Marina: a Alberdi - Riglos - Polledo - Santa Cruz,1
+172,A,Alberdi - Rigloes - Polledo - Santa Cruz - Barrio Marina: a Barrio Marina,0
+172,B,Alberdi y Rigloes - Polledo y Santa Cruz Barrio Ingeniero: a Alberdi y Riglos,1
+172,B,Alberdi y Rigloes - Polledo y Santa Cruz Barrio Ingeniero: a Polledo y Santa Cruz Barrio Ingeniero,0
+174,A,Av.Rivadavia y Barragan - Virgenes y E. Echeverria por Laferrere: a Av.Rivadavia y Barragan,1
+174,A,Av.Rivadavia y Barragan - Virgenes y E. Echeverria por Laferrere: a Virgenes y E. Echeverria por Laferrere,0
+174,B,Av.Rivadavia y Barragan - Marconi y J. M. Lanza por I. Casanova: a Av.Rivadavia y Barragan,1
+174,B,Av.Rivadavia y Barragan - Marconi y J. M. Lanza por I. Casanova: a Marconi y J. M. Lanza por I. Casanova,0
+174,C,Av.Rivadavia y Barragan- El Cisne y Palo Cruz: a Av.Rivadavia y Barragan- El Cisne y,1
+174,C,Av.Rivadavia y Barragan- El Cisne y Palo Cruz: a El Cisne y Palo Cruz,0
+176,A,A - Chacarita - Estación Escobar (ex Linea Mitre) por Puerta 4 Campo de Mayo: A - Chacarita por Puerta 4,1
+176,A,A - Chacarita - Estación Escobar (ex Linea Mitre) por Puerta 4 Campo de Mayo: A - Estación Escobar (ex Linea Mitre) por Puerta 4,0
+176,B,B - Chacarita - Estación Escobar por Puerta 4 y Lisandro de la Torre: B - Chacarita por Puerta 4 y Lisandro de la Torre,1
+176,B,B - Chacarita - Estación Escobar por Puerta 4 y Lisandro de la Torre: B - Estación Escobar por Puerta 4 y Lisandro de la Torre,0
+176,C,C - Chacarita - Pilar por Puerta 4 Campo de Mayo: C - Chacarita por Puerta 4,1
+176,C,C - Chacarita - Pilar por Puerta 4 Campo de Mayo: C - Pilar por Puerta 4,0
+176,D,D - Chacarita - Cruce José C Paz por Puerta 4 Campo de Mayo: D - Chacarita por Puerta 4,1
+176,D,D - Chacarita - Cruce José C Paz por Puerta 4 Campo de Mayo: D - Cruce José C Paz por Puerta 4,0
+176,E,E - Chacarita - Estación Tortuguitas por Puerta 4 y Cura Brochero: E - Chacarita por Puerta 4 y Cura Brochero,1
+176,E,E - Chacarita - Estación Tortuguitas por Puerta 4 y Cura Brochero: E - Estación Tortuguitas por Puerta 4 y Cura Brochero,0
+176,F,F - Chacarita - Fonavi por Constitución y Acceso Norte: F - Chacarita por Constitución y Acceso Norte,1
+176,F,F - Chacarita - Fonavi por Constitución y Acceso Norte: F - Fonavi por Constitución y Acceso Norte,0
+176,G,G - Chacarita - Fca. Eaton por Av. San Martin y Santa Rita: G - Chacarita por Av. San Martin y Santa Rita,1
+176,G,G - Chacarita - Fca. Eaton por Av. San Martin y Santa Rita: G - Fca. Eaton por Av. San Martin y Santa Rita,0
+176,H,H - San Martin y General Paz - Fca. Eaton: H - Fca. Eaton,0
+176,H,H - San Martin y General Paz - Fca. Eaton: H - San Martin y General Paz,1
+176,I,I - General Paz y Constituyentes - José C Paz por Puerta 4: I - General Paz y Constituyentes por Puerta 4,1
+176,I,I - General Paz y Constituyentes - José C Paz por Puerta 4: I - José C Paz por Puerta 4,0
+176,J,J - San Martin y General Paz - Fonavi: J - Fonavi,0
+176,J,J - San Martin y General Paz - Fonavi: J - San Martin y General Paz,1
+176,K,K - Constituyentes y General Paz - Estación Escobar por Puerta 4: K - Constituyentes y General Paz por Puerta 4,1
+176,K,K - Constituyentes y General Paz - Estación Escobar por Puerta 4: K - Estación Escobar por Puerta 4,0
+176,L,L - Constituyentes y General Paz - Pilar por Puerta 4: L - Constituyentes y General Paz por Puerta 4,1
+176,L,L - Constituyentes y General Paz - Pilar por Puerta 4: L - Pilar por Puerta 4,0
+176,M,M - Constituyentes y General Paz - Estación Tortuguitas por Puerta 4 y Cura Brochero: M - Constituyentes y General Paz,1
+176,M,M - Constituyentes y General Paz - Estación Tortuguitas por Puerta 4 y Cura Brochero: M - Estación Tortuguitas por Puerta 4,0
+176,N,N - Chacarita - Estación Juan Vucetich por Puerta 4: N - Chacarita por Puerta 4,1
+176,N,N - Chacarita - Estación Juan Vucetich por Puerta 4: N - Estación Juan Vucetich por Puerta 4,0
+176,n,— - Chacarita - Parque Ind. Pilar por Puerta 4: íë - Chacarita por Puerta 4,1
+176,n,— - Chacarita - Parque Ind. Pilar por Puerta 4: íë - Parque Ind. Pilar por Puerta 4,0
+177,A,Burzaco Pompeya: A - a Burzaco,0
+177,A,Burzaco Pompeya: A - a Pompeya,1
+177,B,B - Pompeya - 2 Abril y Pedro Goyena por Eva Peron: B - a 2 de Abril y P. Goyena por Eva Perón,0
+177,B,B - Pompeya - 2 Abril y Pedro Goyena por Eva Peron: B - a Pompeya,1
+178,A,C Verde - Varela por PuenteGerli y H.Yrigoyen: C Verde - IDA,0
+178,A,C Verde - Varela por PuenteGerli y H.Yrigoyen: C Verde - VUELTA,1
+178,B,C Roja - Varela por PuenteGerli y Senzabello: C Roja - IDA,0
+178,B,C Roja - Varela por PuenteGerli y Senzabello: C Roja - VUELTA,1
+178,C,G - Zeballos por Larralde: G - IDA,0
+178,C,G - Zeballos por Larralde: G - VUELTA,1
+178,D,B - Zeballos por Mitre: B - IDA,0
+178,D,B - Zeballos por Mitre: B - VUELTA,1
+178,E,Nueva Pompeya - Estación Zeballos por Crisologo Larralde: a Estación Zeballos por Larralde,0
+178,E,Nueva Pompeya - Estación Zeballos por Crisologo Larralde: a Nueva Pompeya por Larralde,1
+179,A,Ramal 1: Ramal 1 - IDA,0
+179,A,Ramal 1: Ramal 1 - VUELTA,1
+179,B,Ramal 2: Ramal 2 - IDA,0
+179,B,Ramal 2: Ramal 2 - VUELTA,1
+179,C,Ramal 3: Ramal 3 - IDA,0
+179,C,Ramal 3: Ramal 3 - VUELTA,1
+17,A,Wilde - Facultad de Derecho: a Facultad de Derecho,1
+17,A,Wilde - Facultad de Derecho: a Wilde,0
+180,A,x 155 - Correo Central - González Catán: por 155 - IDA,0
+180,A,x 155 - Correo Central - González Catán: por 155 - VUELTA,1
+180,B,Primera Junta - González Catán por Laferrere: a González Catán por Laferrere,0
+180,B,Primera Junta - González Catán por Laferrere: a González Catán por Laferrere,0
+180,B,Primera Junta - González Catán por Laferrere: a Primera Junta,1
+180,C,Primera Junta - González Catán por Barrio San Alberto: a González Catán por Barrio San Alberto,0
+180,C,Primera Junta - González Catán por Barrio San Alberto: a González Catán por Barrio San Alberto,0
+180,C,Primera Junta - González Catán por Barrio San Alberto: a Primera Junta,1
+180,D,Primera Junta - San Justo por Necochea: a Primera Junta,1
+180,D,Primera Junta - San Justo por Necochea: a San Justo por Necochea,0
+180,D,Primera Junta - San Justo por Necochea: a San Justo por Necochea,0
+180,E,Mataderos - González Catán por Laferrere: a González Catán por Laferrere,0
+180,E,Mataderos - González Catán por Laferrere: a Mataderos,1
+180,F,Mataderos - González Catán por Barrio San Alberto: a González Catán por Barrio San Alberto,0
+180,F,Mataderos - González Catán por Barrio San Alberto: a Mataderos,1
+180,G,Crovara y Cristianía - Primera Junta: a Primera Junta,1
+180,H,Expreso - Primera Junta - González Catán por Laferrere: Expreso - González Catán por Laferrere,0
+180,H,Expreso - Primera Junta - González Catán por Laferrere: Expreso - Primera Junta,1
+180,I,Expreso - Primera Junta - González Catán por Barrio San Alberto: Expreso - González Catán por Barrio San Alberto,0
+180,I,Expreso - Primera Junta - González Catán por Barrio San Alberto: Expreso - Primera Junta,1
+181,A,Marmol y Constitucón - Rubens y Defensa por La Merced: a San Juan y Boedo por La Merced,1
+181,A,Marmol y Constitucón - Rubens y Defensa por La Merced: a Showcenter Haedo por La Merced,0
+181,B,Marmol y Constitucón - Rubens y Defensa por Puan: a San Juan y Boedo por Puan,1
+181,B,Marmol y Constitucón - Rubens y Defensa por Puan: a Showcenter Haedo por Puan,0
+182,A,1 - Parque Avellaneda - José C. Paz por Cap. C. Rosales: a  S. Cayetano - Zapiola - Ameghino,0
+182,A,1 - Parque Avellaneda - José C. Paz por Cap. C. Rosales: a 9 de Julio,1
+182,B,2 - Parque Avellaneda - José C. Paz por Guillermo Marconi: 2 - José C. Paz por Guillermo Marconi,0
+182,B,2 - Parque Avellaneda - José C. Paz por Guillermo Marconi: 2 - Parque Avellaneda por Guillermo Marconi,1
+182,C,3 - Parque Avellaneda - Estación Palomar por Emaus: 3 - Estación Palomar por Emaus,0
+182,C,3 - Parque Avellaneda - Estación Palomar por Emaus: 3 - Parque Avellaneda por Emaus,1
+182,D,4 - Parque Avellaneda - Estación Palomar por Villa Basso: 4 - Estación Palomar por Villa Basso,0
+182,D,4 - Parque Avellaneda - Estación Palomar por Villa Basso: 4 - Parque Avellaneda por Villa Basso,1
+184,A,Chacarita - Estación Villa Adelina: a Chacarita,1
+184,A,Chacarita - Estación Villa Adelina: a EstaciónVilla Adelina,0
+185,A,A - Barrio General Savio - Liniers: A - Barrio General Savio,1
+185,A,A - Barrio General Savio - Liniers: A - Liniers,0
+185,B,B - Barrio General Savio - Isidro Casanova: B - Barrio General Savio,1
+185,B,B - Barrio General Savio - Isidro Casanova: B - Isidro Casanova,0
+185,C,C - Liniers - Isidro Casanova: C - Isidro Casanova,0
+185,C,C - Liniers - Isidro Casanova: C - Liniers,1
+188,A,Plaza Italia - Estación Ing. Budge: a Estación Ing. Budge,0
+188,A,Plaza Italia - Estación Ing. Budge: a Plaza Italia,1
+188,B,Plaza Italia - Cno. de Cintura y Prof. Maxer por Iparraguirre: Lisandro de la Torre - IDA,0
+188,B,Plaza Italia - Cno. de Cintura y Prof. Maxer por Iparraguirre: Lisandro de la Torre - VUELTA,1
+188,C,Plaza Italia - Cno. de Cintura y Prof. Maxer por Cno. Peron: Cno. Negro - IDA,0
+188,C,Plaza Italia - Cno. de Cintura y Prof. Maxer por Cno. Peron: Cno. Negro - VUELTA,1
+188,D,Plaza Italia - Cno. de Cintura y Prof. Maxer por Villa Albertina: Budge - IDA,0
+188,D,Plaza Italia - Cno. de Cintura y Prof. Maxer por Villa Albertina: Budge - VUELTA,1
+188,E,Plaza Italia - Estación Puente La Noria: a Pompeya - Puente La Noria - Cruce de Lomas,0
+188,E,Plaza Italia - Estación Puente La Noria: a Puente La Noria - Pompeya - Plaza Italia,1
+188,F,Plaza Italia - Eva Peron y Villa de Lujan: a Eva Peron y Villa de Lujan,0
+188,F,Plaza Italia - Eva Peron y Villa de Lujan: a Plaza Italia,1
+188,G,Expreso - Nueva Pompeya - Estación Ing. Budge: Semirapido - IDA,0
+188,G,Expreso - Nueva Pompeya - Estación Ing. Budge: Semirapido - VUELTA,1
+188,H,Expreso - Plaza Italia - Cno. de Cintura y Prof. Maxer: Puente La Noria - Pompeya - Plaza Italia - IDA,0
+188,H,Expreso - Plaza Italia - Cno. de Cintura y Prof. Maxer: Puente La Noria - Pompeya - Plaza Italia - VUELTA,1
+193,A,Pompeya - Km 29 RP21 (G. Catán): a Km 29 RP21 (G. Catán),0
+193,A,Pompeya - Km 29 RP21 (G. Catán): a Pompeya,1
+193,B,Estación Saenz - Estación Laferrere por Laferrere Sur: a Estación Laferrere,0
+193,B,Estación Saenz - Estación Laferrere por Laferrere Sur: a Estación Saenz,1
+193,C,Estación Saenz - Estación Independecia: a Estación Independecia,0
+193,C,Estación Saenz - Estación Independecia: a Estación Saenz,1
+194,A,Plaza Miserere - Zarate por Ruta Provincial 6: a Plaza Miserere,1
+194,A,Plaza Miserere - Zarate por Ruta Provincial 6: a Zarate por Ruta Provincial 6,0
+194,B,Plaza Miserere - Estación Escobar: a Estación Escobar,0
+194,B,Plaza Miserere - Estación Escobar: a Plaza Miserere,1
+194,C,Plaza Miserere - Estación Escobar: a Estación Escobar,0
+194,C,Plaza Miserere - Estación Escobar: a Plaza Miserere,1
+194,D,Expreso - Plaza Miserere - Zarate: a Zarate,0
+194,D,Expreso - Plaza Miserere - Zarate: Expreso - Plaza Miserere,1
+194,E,Expreso - Plaza Miserere - Zarate: a Zarate,0
+194,E,Expreso - Plaza Miserere - Zarate: Expreso - Plaza Miserere,1
+194,F,Expreso - Plaza Miserere - Estación Escobar: a Estación Escobar,0
+194,F,Expreso - Plaza Miserere - Estación Escobar: a Expreso - Plaza Miserere,1
+194,G,Expreso - Plaza Miserere - Zarate: a Zarate,0
+194,G,Expreso - Plaza Miserere - Zarate: Expreso - Plaza Miserere,1
+194,H,Expreso - Plaza Miserere - Estación Escobar: a Estación Escobar,0
+194,H,Expreso - Plaza Miserere - Estación Escobar: a Expreso - Plaza Miserere,1
+194,I,Diferencial - Retiro - Zarate: a Retiro,1
+194,I,Diferencial - Retiro - Zarate: a Zarate,0
+194,J,Diferencial - Retiro - Lima Zarate: a Diferencial - Retiro,1
+194,J,Diferencial - Retiro - Lima Zarate: a Lima Zarate,0
+195,A,Retiro - Terminal de La Plata por Av. Mitre: a Retiro,1
+195,A,Retiro - Terminal de La Plata por Av. Mitre: a Terminal de La Plata por Av. Mitre,0
+195,B,Retiro - Terminal de La Plata por Autopista: a Retiro,1
+195,B,Retiro - Terminal de La Plata por Autopista: a Terminal de La Plata por Autopista,0
+195,C,Retiro - Terminal de La Plata por Autopista: a Retiro,1
+195,C,Retiro - Terminal de La Plata por Autopista: a Terminal de La Plata por Autopista,0
+195,D,Retiro - Terminal de La Plata por Autopista: a Retiro,1
+195,D,Retiro - Terminal de La Plata por Autopista: a Terminal de La Plata por Autopista,0
+195,E,Plaza Constitución - Terminal de La Plata por Autopista: a Plaza Constitución,1
+195,E,Plaza Constitución - Terminal de La Plata por Autopista: a Terminal de La Plata por Autopista,0
+195,F,Liniers - Terminal de La Plata por Autopista: a Liniers,1
+195,F,Liniers - Terminal de La Plata por Autopista: a Terminal de La Plata por Autopista,0
+195,G,Expreso - Retiro Belgrano Norte - Terminal de La Plata por Autopista: a Terminal de La Plata por Autopista,0
+195,G,Expreso - Retiro Belgrano Norte - Terminal de La Plata por Autopista: Expreso - Retiro Belgrano Norte,1
+195,H,Retiro Belgrano Norte - Terminal de La Plata por Autopista: a Retiro Belgrano Norte,1
+195,H,Retiro Belgrano Norte - Terminal de La Plata por Autopista: a Terminal de La Plata por Autopista,0
+195,I,Expreso - Plaza Constitución - Terminal de La Plata por Autopista: a Terminal de La Plata por Autopista,0
+195,I,Expreso - Plaza Constitución - Terminal de La Plata por Autopista: Expreso - Plaza Constitución,1
+19,A,Plaza Miserere - Carapachay: a Carapachay,0
+19,A,Plaza Miserere - Carapachay: a Plaza Miserere,1
+1,A,Primera Junta - Estación Morón: a Estación Morón,0
+1,A,Primera Junta - Estación Morón: a Primera Junta,1
+1,A,Barrio Policial-Toma Nueva: Barrio Policial,1
+1,A,Barrio Policial-Toma Nueva: Toma Nueva,0
+20,A,Retiro - Universidad Lomas de Zamora por Iparaguirre: 1 a UNLZ por Itatín,0
+20,A,Retiro - Universidad Lomas de Zamora por Iparaguirre: 1 UNLZ a Retiro por Itatín,1
+20,B,Retiro - Universidad Lomas de Zamora por 9 de Julio: 3 a UNLZ por Rodriguez,0
+20,B,Retiro - Universidad Lomas de Zamora por 9 de Julio: 3 UNLZ por Rodriguez,1
+21,A,Ejercito de los Andres - Rotonda Dardo Rocha Tigre: a Dardo Rocha,0
+21,B,Ejercito de los Andres - Fca. Ford: a Fca. Ford,0
+21,C,Ejercito de los Andres - Puente Saavedra: a Ejercito de los Andres,1
+21,C,Ejercito de los Andres - Puente Saavedra: a Puente Saavedra,0
+21,D,Estación Liniers - Autopista Ing. Pascual Palazzo e Hipólito yrigoyen: a EstaciónTigre y 197,0
+21,D,Estación Liniers - Autopista Ing. Pascual Palazzo e Hipólito yrigoyen: a Liniers,1
+21,E,Estación Liniers - Estación Tigre: a EstaciónTigre,0
+21,F,Estación Liniers - Estación Florida: a Florida,0
+21,F,Estación Liniers - Estación Florida: a Liniers,1
+21,G,Estación Liniers - Cementerio de Olivos: a Liniers,1
+21,G,Estación Liniers - Cementerio de Olivos: a Vicente Lopez,0
+21,H,Estación Liniers - Puente Saavedra: a Estación Liniers,1
+21,H,Estación Liniers - Puente Saavedra: a Puente Saavedra,0
+21,I,Ejercito de los Andres - Puente Saavedra: a Puente La Noria,1
+21,I,Ejercito de los Andres - Puente Saavedra: a Puente Saavedra,0
+21,J,Ejercito de los Andres - Fca. Ford Tigre: a Fca. Ford,0
+21,K,Ejercito de los Andres - Autopista Ing. Pascual Palazzo y Av. Barrio Márquez: a Av. Marquez,0
+21,K,Ejercito de los Andres - Autopista Ing. Pascual Palazzo y Av. Barrio Márquez: a Liniers - Puente La Noria,1
+22,A,Retiro - Cno. Centenario y Lavalleja : A - a Cno. Centenario y Lavalleja,0
+22,A,Retiro - Cno. Centenario y Lavalleja : A - a Retiro,1
+22,A,Retiro - Cno. Centenario y Lavalleja: A - a Cno. Centenario y Lavalleja,0
+22,A,Retiro - Cno. Centenario y Lavalleja: A - a Retiro,1
+22,A,SAN BENITO-PARAN¡ (Casa de Gobierno): PARAN¡ (Casa de Gobierno),0
+22,A,SAN BENITO-PARAN¡ (Casa de Gobierno): SAN BENITO,1
+22,B,Retiro - Estación Quilmes : B - a Estación Quilmes,0
+22,B,Retiro - Estación Quilmes : B - a Retiro,1
+22,B,Retiro - Estación Quilmes: B - a Estación Quilmes,0
+22,B,Retiro - Estación Quilmes: B - a Retiro,1
+22,B,COLONIA AVELLANEDA-: COLONIA AVELLANEDA,1
+22,B,COLONIA AVELLANEDA-: PARAN¡ (Casa de Gobierno),0
+23,A,Villa Soldati - Pto. Nuevo: A - Retiro - IDA,0
+23,A,Villa Soldati - Pto. Nuevo: A - Retiro - VUELTA,1
+24,A,Estación Villa del Parque - Cementerio Avellaneda por Cementerio: a Barracas - IDA,0
+24,A,Estación Villa del Parque - Cementerio Avellaneda por Cementerio: a Barracas - IDA,0
+24,A,Estación Villa del Parque - Cementerio Avellaneda por Cementerio: a Barracas - VUELTA,1
+24,B,Estación Villa del Parque - Cementerio Avellaneda por Wilde: 2 - a Avellaneda por Lynch,0
+24,B,Estación Villa del Parque - Cementerio Avellaneda por Wilde: 2 - a Avellaneda por Lynch,0
+24,B,Estación Villa del Parque - Cementerio Avellaneda por Wilde: 2 - a Villa del Parque por Lynch,1
+24,C,Villa del Parque - A. del Valle y Patricios: a Canal San Fernando,1
+24,C,Villa del Parque - A. del Valle y Patricios: a Ruta 197 y Ruta 8,0
+24,C,Villa del Parque - A. del Valle y Patricios: a Ruta 197 y Ruta 8,0
+25,A,PI y Margall y Av. Alte Brown - Av. Senador Benito Ferro y General Las Heras: a 3 de Febrero,0
+25,A,PI y Margall y Av. Alte Brown - Av. Senador Benito Ferro y General Las Heras: a La Boca,1
+26,A,Retiro - Barrio Rivadavia: a Barrio Rivadavia,0
+26,A,Retiro - Barrio Rivadavia: a Retiro,1
+28,A,Retiro - Terminal de Ómnibus Puente La Noria : a Puente La Noria,0
+28,A,Retiro - Terminal de Ómnibus Puente La Noria: a Puente La Noria,0
+28,A,Retiro - Terminal de Ómnibus Puente La Noria: a Retiro,1
+28,B,Retiro - Liniers: a Liniers,0
+28,B,Retiro - Liniers: a Liniers,0
+28,B,Retiro - Liniers: a Retiro,1
+28,C,Retiro - Barrio J. Hernández : a La Salada - Barrio Hernández,0
+28,C,Retiro - Barrio J. Hernández: a La Salada - Barrio Hernández,0
+28,C,Retiro - Barrio J. Hernández: a Retiro,1
+28,D,Puente Alsina - Ciudad Universitaria: a Ciudad Universitaria,0
+28,D,Puente Alsina - Ciudad Universitaria: a Puente La Noria - Puente Uriburu,1
+28,E,Puente Alsina - Estación Mitre Retiro: a Estación Rivadavia,0
+28,E,Puente Alsina - Estación Mitre Retiro: a Puente La Noria - Puente Uriburu,1
+28,F,Liniers - Ciudad Universitaria: a Ciudad Universitaria,0
+28,F,Liniers - Ciudad Universitaria: a Liniers,1
+28,G,Puente Alsina - Barrio J. Hernández: a Barrio José Hernández,0
+28,G,Puente Alsina - Barrio J. Hernández: a Puente Alsina,1
+28,H,Terminal de Ómnibus Puente La Noria - Ciudad Universitaria: a Ciudad Universitaria,0
+28,H,Terminal de Ómnibus Puente La Noria - Ciudad Universitaria: a Puente La Noria,1
+28,I,Terminal de Ómnibus Puente La Noria - Estación Mitre Retiro: a Estación Rivadavia,0
+28,I,Terminal de Ómnibus Puente La Noria - Estación Mitre Retiro: a Puente La Noria,1
+28,J,Terminal de Ómnibus Puente La Noria - Ciudad Universitaria: a Ciudad Universitaria,0
+28,J,Terminal de Ómnibus Puente La Noria - Ciudad Universitaria: a Puente La Noria,1
+28,K,Liniers - Ciudad Universitaria: a Ciudad Universitaria,0
+28,K,Liniers - Ciudad Universitaria: a Liniers,1
+28,L,Retiro - Liniers: a Liniers,0
+28,L,Retiro - Liniers: a Liniers,0
+28,L,Retiro - Liniers: a Retiro,1
+29,A,La Boca - Olivos: a La Boca,1
+29,A,La Boca - Olivos: a La Boca,1
+29,A,La Boca - Olivos: a Olivos,0
+29,B,La Boca - Parque Puente Sarmiento: a La Boca,1
+29,B,La Boca - Parque Puente Sarmiento: a La Boca,1
+29,B,La Boca - Parque Puente Sarmiento: a Parque Puente Sarmiento,0
+29,C,La Boca - Estación Rivadavia: a Estación Rivadavia,0
+29,C,La Boca - Estación Rivadavia: a La Boca,1
+29,C,La Boca - Estación Rivadavia: a La Boca,1
+29,D,Plaza de Mayo - Estación Belgrano: a Estación Belgrano,0
+29,D,Plaza de Mayo - Estación Belgrano: a Plaza de Mayo,1
+2,A,Aduana - Las Heras y Av. Eva Peron: a Aduana,1
+2,A,Aduana - Las Heras y Av. Eva Peron: a Lomas del Mirador,0
+2,B,Central Costanera SA - Las Heras y Av. E. Peron: a Ciudad Deportiva,1
+2,B,Central Costanera SA - Las Heras y Av. E. Peron: a Lomas del Mirador,0
+31,A,Olimpo y C. de Cintura - Plaza Miserere por Newton: a Calle 21 - IDA,0
+31,A,Olimpo y C. de Cintura - Plaza Miserere por Newton: a Calle 21 - VUELTA,1
+31,B,Olimpo y C. de Cintura - Plaza Miserere por Baradero: a Olimpo y C. de Cintura por Baradero,0
+31,B,Olimpo y C. de Cintura - Plaza Miserere por Baradero: a Plaza Miserere por Baradero,1
+31,C,Newton y Epecuen - Nueva Pompeya por Newton: a Newton y Epecuen,1
+31,C,Newton y Epecuen - Nueva Pompeya por Newton: a Nueva Pompeya por Newton,0
+31,D,Recodo y Alas - Nueva Pompeya por Baradero: a Calle 11 - IDA,0
+31,D,Recodo y Alas - Nueva Pompeya por Baradero: a Calle 11 - VUELTA,1
+31,E,Expreso por Newton - Olimpo y C. de Cintura - Plaza Miserere: a Correo Central,0
+31,E,Expreso por Newton - Olimpo y C. de Cintura - Plaza Miserere: a Hospital Posadas,1
+31,F,Expreso por Baradero - Olimpo y C. de Cintura - Plaza Miserere: Expreso - Plaza Miserere,0
+31,F,Expreso por Baradero - Olimpo y C. de Cintura - Plaza Miserere: Expreso por Baradero - Olimpo y C. de Cintura,1
+31,H,Av. Saenz y M. Lebensohn - Claudio Alas y Recondo por Baradero: a Calle 11 - IDA,0
+31,I,Expreso - Puente La Noria - Plaza Miserere: Expreso - Puente La Noria,1
+32,A,Plaza Miserere - Estación Lanus: a Estación Lan˙s,0
+32,A,Plaza Miserere - Estación Lanus: a Plaza Miserere,1
+33,A,Ciudad Universitaria - Monte Chongolo por Barracas y General Madariaga: M Ciudad Universitaria por Barracas,0
+33,A,Ciudad Universitaria - Monte Chongolo por Barracas y General Madariaga: por Barracas hasta Estación Sarandi,1
+33,B,Ciudad Universitaria - Monte Chongolo por Barracas y Cementerio de Avellaneda: C Ciudad Universitaria por Barracas,0
+33,B,Ciudad Universitaria - Monte Chongolo por Barracas y Cementerio de Avellaneda: por Barracas hasta Estación Sarandi,1
+33,C,Ciudad Universitaria - Monte Chongolo por Dock Sud y General Madariaga: M Ciudad Universitaria por Dock Sud,0
+33,C,Ciudad Universitaria - Monte Chongolo por Dock Sud y General Madariaga: por Dock Sud hasta Estación Sarandi,1
+33,D,Ciudad Universitaria - Monte Chongolo por Dock Sud y Cementerio de Avellaneda: C Ciudad Universitaria por Dock Sud,0
+33,D,Ciudad Universitaria - Monte Chongolo por Dock Sud y Cementerio de Avellaneda: por Dock Sud hasta Estación Sarandi,1
+33,E,Retiro - Monte Chingolo por Barracas y General Madariaga: M Retiro Barracas,0
+33,E,Retiro - Monte Chingolo por Barracas y General Madariaga: por Barracas hasta Estación Sarandi,1
+33,F,Retiro - Monte Chongolo por Barracas y Cementerio de Avellaneda: C Retiro Barracas,0
+33,F,Retiro - Monte Chongolo por Barracas y Cementerio de Avellaneda: por Barracas hasta Estación Sarandi,1
+33,G,Retiro - Monte Chongolo por Dock Sud y General Madariaga: M Retiro Dock Sud,0
+33,G,Retiro - Monte Chongolo por Dock Sud y General Madariaga: por Dock Sud hasta Estación Sarandi,1
+33,H,Retiro - Monte Chongolo por Dock Sud y Cementerio de Avellaneda: C Retiro Dock Sud,0
+33,H,Retiro - Monte Chongolo por Dock Sud y Cementerio de Avellaneda: por Dock Sud hasta Estación Sarandi,1
+33,I,Retiro - Estación Remedios de Escalada: a Estación Escalada,1
+33,I,Retiro - Estación Remedios de Escalada: a Retiro,0
+34,A,Palermo - Estación Liniers: A - Estación Liniers,0
+34,A,Palermo - Estación Liniers: A - Palermo Puente Pacifico - Hipodromo,1
+34,B,Ciudad Universitaria - Estación Liniers: B - Ciudad Universitaria,1
+34,B,Ciudad Universitaria - Estación Liniers: B - Estación Liniers,0
+34,C,Av. Santa Fe y Fray J. Sta María de Oro - Estación Liniers: C - Estación Liniers,0
+34,C,Av. Santa Fe y Fray J. Sta María de Oro - Estación Liniers: C - Pacifico,1
+34,D,Semirapido - Palermo - Estación Liniers: D - Estación Liniers,0
+34,D,Semirapido - Palermo - Estación Liniers: D - Semirápido Palermo - Av. Libertador,1
+34,E,Semirápido - Ciudad Universitaria - Estación Liniers: E - Estación Liniers,0
+34,E,Semirápido - Ciudad Universitaria - Estación Liniers: E - Semirápido Ciudad Universitaria,1
+37,A,Estación Lanus - Plaza Italia: a Estación Lanus,0
+37,A,Estación Lanus - Plaza Italia: a Plaza Italia,1
+37,B,Estación Lanus - Ciudad Universitaria por Av. F. Alcorta: a Ciudad Universitaria por Av. F. Alcorta,1
+37,B,Estación Lanus - Ciudad Universitaria por Av. F. Alcorta: a Estación Lanus,0
+37,C,Estación Lanus - Ciudad Universitaria por AeroParque: a Ciudad Universitaria por AeroParque,1
+37,C,Estación Lanus - Ciudad Universitaria por AeroParque: a Estación Lanus,0
+39,A,Barracas - Chacarita: R1 a Barracas por Plaza Italia,1
+39,A,Barracas - Chacarita: R1 a Chacarita por Plaza Italia,0
+39,B,Barracas - Chacarita por Colegiales: R2 a Barracas por Colegiales,1
+39,B,Barracas - Chacarita por Colegiales: R2 a Chacarita por Colegiales,0
+39,C,Barracas - Chacarita por Palermo Viejo: R3 a Barracas por Plaza Serrano,1
+39,C,Barracas - Chacarita por Palermo Viejo: R3 a Chacarita por Cnel. Dínaz - Honduras,0
+39,D,Plaza Constitución - Chacarita: R1 a Chacarita por Plaza Italia,0
+39,D,Plaza Constitución - Chacarita: R1 hasta Constitución por Plaza Italia,1
+39,E,Plaza Constitución - Chacarita por Colegiales: R2 a Chacarita por Colegiales,0
+39,E,Plaza Constitución - Chacarita por Colegiales: R2 hasta Constitución por Colegiales,1
+39,F,Plaza Constitución - Chacarita por Palermo Viejo: R3 a Chacarita por Cnel. Dínaz - Honduras,0
+39,F,Plaza Constitución - Chacarita por Palermo Viejo: R3 hasta Constitución por Palermo Viejo,1
+41,A,San Cristóbal - Munro por Viaducto Carranza: a Munro por Viaducto Carranza,0
+41,A,San Cristóbal - Munro por Viaducto Carranza: a San Cristobal por Viaducto Carranza,1
+42,A,Alcorta - Ciudad Universitaria: a Alcorta,1
+42,A,Alcorta - Ciudad Universitaria: a Ciudad Universitaria,0
+42,B,Alcorta - Ciudad Universitaria: a Alcorta,1
+42,B,Alcorta - Ciudad Universitaria: a Ciudad Universitaria,0
+44,A,Puente Alsina - Estación Belgrano: a Bcas. de Belgrano,0
+44,A,Puente Alsina - Estación Belgrano: a Pompeya,1
+45,A,Ciudad Universitaria - Remedios de Escalada: a Ciudad Universitaria,0
+45,A,Ciudad Universitaria - Remedios de Escalada: a Remedios de Escalada,1
+45,B,Ciudad Universitaria - Remedios de Escalada: a Remedios de Escalada,1
+45,B,Ciudad Universitaria - Remedios de Escalada: Semirápido por Autopista,0
+45,C,Ciudad Universitaria - Plaza Constitución: a Ciudad Universitaria,0
+45,C,Ciudad Universitaria - Plaza Constitución: a Constitución,1
+45,D,Expreso - Retiro - Ciudad Universitaria: a Ciudad Universitaria,0
+45,D,Expreso - Retiro - Ciudad Universitaria: a Tribunales Retiro,1
+46,A,Eva Peron y Av. San Martin - La Boca: a La Boca por Alcorta,0
+46,A,Eva Peron y Av. San Martin - La Boca: a La Boca por Alcorta,0
+46,A,Eva Peron y Av. San Martin - La Boca: a San Justo por Alcorta,1
+46,A,Eva Peron y Av. San Martin - La Boca: a San Justo por Alcorta,1
+46,B,Eva Peron y Av. San Martin - Plaza Constitución: a La Boca por Iriarte,0
+46,B,Eva Peron y Av. San Martin - Plaza Constitución: a La Boca por Iriarte,0
+46,B,Eva Peron y Av. San Martin - Plaza Constitución: a San Justo por Iriarte,1
+46,B,Eva Peron y Av. San Martin - Plaza Constitución: a San Justo por Iriarte,1
+46,C,Expreso por Autopista - F. Varela y Puente Peron - P. de Mendoza y Necochea: a La Boca por Autopista,0
+46,C,Expreso por Autopista - F. Varela y Puente Peron - P. de Mendoza y Necochea: a San Justo por Autopista,1
+47,A,Estación Federico Lacroze - Autodromo por Nogoya: a Autodromo por Nogoya,0
+47,A,Estación Federico Lacroze - Autodromo por Nogoya: a Chacarita por Nogoya,1
+47,B,Estación Federico Lacroze - Autodromo por Camarone: a Autodromo por Camarones,0
+47,B,Estación Federico Lacroze - Autodromo por Camarone: a Chacarita por Camarones,1
+49,A,Primera Junta - La Tablada: a La Tablada,0
+49,A,Primera Junta - La Tablada: a Primera Junta,1
+49,B,Primera Junta - Isidro Casanova por Cnel. Olleros: a Isidro Casanova por Cnel. Olleros,0
+49,B,Primera Junta - Isidro Casanova por Cnel. Olleros: a Primera Junta,1
+4,A,Lomas del Mirador - Correo Central: a Correo Central,0
+4,A,Lomas del Mirador - Correo Central: a Lomas del Mirador,1
+4,B,Lomas del Mirador - Darsena Sur: a Darsena Sur,0
+4,B,Lomas del Mirador - Darsena Sur: a Lomas del Mirador,1
+4,C,Central Costanera: a Central Costanera - IDA,0
+4,C,Central Costanera: a Central Costanera - VUELTA,1
+50,A,Retiro - Av. E. Peron y colectora Este Av. General Paz: a Eva Peron,0
+50,A,Retiro - Av. E. Peron y colectora Este Av. General Paz: a Eva Peron,0
+50,A,Retiro - Av. E. Peron y colectora Este Av. General Paz: a Retiro,1
+50,B,1282 ANTARTIDA ARGENTINA AV.->Dellep: Dellep,0
+50,B,Dellep->CALLE 2 - RETIRO: a Retiro,1
+50,B,Retiro - Hospital Piñeiro: a Hospital Piñero,0
+50,B,Retiro - Hospital Piñeiro: a Retiro,1
+51,A,Plaza Constitución - Cañuelas: a Cañuelas,0
+51,A,Plaza Constitución - Cañuelas: a Plaza Constitución,1
+51,B,Lanus - Aerop. Ezeiza: a Aerop. Ezeiza,0
+51,B,Lanus - Aerop. Ezeiza: a Lanus,1
+51,C,Lomas - CanIng.: a CanIng.,0
+51,C,Lomas - CanIng.: a Lomas,1
+51,D,Plaza Constitución - Brandsen: a Brandsen,0
+51,D,Plaza Constitución - Brandsen: a Plaza Constitución,1
+51,E,Lomas - Calzada: a Calzada,0
+51,E,Lomas - Calzada: a Lomas,1
+51,F,F - San José y Constitución - RN 210: F - RN 210,0
+51,F,F - San José y Constitución - RN 210: F - San José y Constitución,1
+51,G,G - San José y Constitución - Estación Marcos Paz: G - Estación Marcos Paz,0
+51,G,G - San José y Constitución - Estación Marcos Paz: G - San José y Constitución,1
+51,H,H - San José y Constitución - Estación Rafael Calzada: H - Estación Rafael Calzada,0
+51,H,H - San José y Constitución - Estación Rafael Calzada: H - San José y Constitución,1
+53,A,La Boca - San Miguel: a Boca,1
+53,A,La Boca - San Miguel: a San Miguel,0
+53,B,La Boca - Aerop. El Palomar: a Boca,1
+53,B,La Boca - Aerop. El Palomar: a Palomar,0
+53,C,La Boca - José C. Paz: a Boca,1
+53,C,La Boca - José C. Paz: a Estación J.C. Paz por Gasp. Campos por San Miguel,0
+53,D,La Boca - Av. Nazca y Av. Rivadavia: a Boca,1
+53,D,La Boca - Av. Nazca y Av. Rivadavia: a Nazca,0
+53,E,Expreso por Autopista - Plaza Constitución - José C. Paz: Rapido por Autopista San Miguel Constitución - IDA,0
+53,E,Expreso por Autopista - Plaza Constitución - José C. Paz: Rapido por Autopista San Miguel Constitución - VUELTA,1
+55,A,Bcas. de Belgrano - Don Bosco y Paraná por San Justo: a Bcas. de Belgrano,1
+55,A,Bcas. de Belgrano - Don Bosco y Paraná por San Justo: a Don Bosco y Paraná por San Justo,0
+55,B,Bcas. de Belgrano - Don Bosco y Paraná por Rotonda San Justo: a Bcas. de Belgrano,1
+55,B,Bcas. de Belgrano - Don Bosco y Paraná por Rotonda San Justo: a Don Bosco y Paraná por Rotonda San Justo,0
+55,C,Expreso - Primera Junta - San Justo: Expreso - Primera Junta,1
+55,C,Expreso - Primera Junta - San Justo: Expreso - San Justo,0
+56,A,Retiro - Tapiales: a A. Bonzi,0
+56,A,Retiro - Tapiales: a Retiro,1
+56,B,Retiro - Estación Varela: a Estación Varela,0
+56,B,Retiro - Estación Varela: a Retiro,1
+56,C,Retiro - Rotonda Ciudad Evita: a Ciudad Evita,0
+56,C,Retiro - Rotonda Ciudad Evita: a Retiro,1
+56,D,Retiro - Rotonda Ciudad Evita: a Ciudad Evita,0
+56,D,Retiro - Rotonda Ciudad Evita: a Retiro,1
+57,A,A - Plaza Italia por Ruta Provincial 8 y 7 - Terminal de Ómnibus Mercedes: por Ruta 7 Mercedes Palermo,0
+57,A,A - Plaza Italia por Ruta Provincial 8 y 7 - Terminal de Ómnibus Mercedes: por Ruta 7 Palermo Mercedes,1
+57,B,B - Plaza Italia por Cno. del Buen Ayre - Terminal de Ómnibus Mercedes: por Autopista Mercedes Palermo,0
+57,B,B - Plaza Italia por Cno. del Buen Ayre - Terminal de Ómnibus Mercedes: por Autopista Palermo Mercedes,1
+57,C,C - Plaza Italia por Acceso Norte - Terminal de Ómnibus de Lujan: por colectora Lujan Palermo,0
+57,C,C - Plaza Italia por Acceso Norte - Terminal de Ómnibus de Lujan: por colectora Palermo Lujan,1
+57,D,D - Plaza Italia por Ruta Provincial 8 y 7 - Terminal de Ómnibus de Lujan: por Ruta 7 Lujan Palermo,0
+57,D,D - Plaza Italia por Ruta Provincial 8 y 7 - Terminal de Ómnibus de Lujan: por Ruta 7 Palermo Lujan,1
+57,E,E - Plaza Italia por Ruta Provincial 8 - Pilar: por Ruta 8 Palermo Pilar,1
+57,E,E - Plaza Italia por Ruta Provincial 8 - Pilar: por Ruta 8 Pilar Palermo,0
+57,NIE,— - Plaza Italia por Av. Cantilo y Acceso Norte - Estación Capilla del Señor: por Av. Cantilo Palermo Pilar,1
+57,NIE,— - Plaza Italia por Av. Cantilo y Acceso Norte - Estación Capilla del Señor: por Av. Lugones Pilar Palermo,0
+57,F,F - Plaza Italia - Pilar: por Autopista Palermo Pilar,1
+57,F,F - Plaza Italia - Pilar: por Autopista Pilar Palermo,0
+57,G,G - Plaza Italia por Estación Garín - Pilar: a Palermo Pilar por Garin,1
+57,G,G - Plaza Italia por Estación Garín - Pilar: a Pilar Palermo por Garin,0
+57,H,H - Plaza Italia por Ruta Provincial 8 - Estación Capilla del Señor: por Ruta 8 Capilla Palermo,0
+57,H,H - Plaza Italia por Ruta Provincial 8 - Estación Capilla del Señor: por Ruta 8 Palermo Capilla,1
+57,I,I - Plaza Italia por Ruta Provincial 8 - cruce Castelar: por Ruta 8 cruce Castelar Palermo,0
+57,I,I - Plaza Italia por Ruta Provincial 8 - cruce Castelar: por Ruta 8 Palermo cruce Castelar,1
+57,J,J - Plaza Italia por Cno. del Buen Ayre - Estación Moreno: por Autopista Moreno Palermo,0
+57,J,J - Plaza Italia por Cno. del Buen Ayre - Estación Moreno: por Autopista Palermo Moreno,1
+57,K,K - Plaza Italia por Cno. del Buen Ayre y Av. Roca - Estación Moreno: por Roca Moreno Palermo,0
+57,K,K - Plaza Italia por Cno. del Buen Ayre y Av. Roca - Estación Moreno: por Roca Palermo Moreno,1
+57,L,L - Plaza Italia por Autopista 25deMayo-P. Moreno-del Oeste - Terminal de Ómnibus Mercedes: por colectora Mercedes Once Palermo,0
+57,L,L - Plaza Italia por Autopista 25deMayo-P. Moreno-del Oeste - Terminal de Ómnibus Mercedes: por colectora Palermo Once Mercedes,1
+57,M,M - Plaza Italia por Cno. del Buen Ayre - Terminal de Ómnibus Mercedes: Expreso Mercedes Palermo,0
+57,M,M - Plaza Italia por Cno. del Buen Ayre - Terminal de Ómnibus Mercedes: Expreso Palermo Mercedes,1
+57,N,N - Plaza Italia por Acceso Norte - Pilar: Expreso Palermo Pilar,1
+57,N,N - Plaza Italia por Acceso Norte - Pilar: Expreso Pilar Palermo,0
+57,O,O - Plaza Italia por Av. Int. Cantilo y Acceso Norte - Pilar: Expreso Palermo Pilar,1
+57,O,O - Plaza Italia por Av. Int. Cantilo y Acceso Norte - Pilar: Expreso Pilar Palermo,0
+57,P,P - Plaza Miserere por Autopista 25deMayo-P. Moreno-del Oeste - Terminal de Ómnibus Mercedes: por Autopista Mercedes Once,0
+57,P,P - Plaza Miserere por Autopista 25deMayo-P. Moreno-del Oeste - Terminal de Ómnibus Mercedes: por Autopista Once Mercedes,1
+57,Q,Q - Plaza Miserere por Autopista 25deMayo-P. Moreno-del Oeste - Terminal de Ómnibus de Lujan: Expreso Luján Once,0
+57,Q,Q - Plaza Miserere por Autopista 25deMayo-P. Moreno-del Oeste - Terminal de Ómnibus de Lujan: Expreso Once Luján,1
+57,R,R - Plaza Miserere por Autopista P. Moreno-Aut del Oeste - RN 7 - Estación Moreno: Expreso Moreno - Once,0
+57,R,R - Plaza Miserere por Autopista P. Moreno-Aut del Oeste - RN 7 - Estación Moreno: Expreso Once - Moreno,1
+59,A,Ramal 1 - Estación BsAs por Estación La Lucila A Int. Cnel. A. ¡valos y D. De Acassuso: R1 por La Lucila a Estación BsAs,1
+59,A,Ramal 1 - Estación BsAs por Estación La Lucila A Int. Cnel. A. ¡valos y D. De Acassuso: R1 por La Lucila a Int. Cnel. ¡valos y De Acassuso,0
+59,B,Ramal 2 - Estación BsAs por Barrio Golf - Int. Cnel. A. ¡valos y D. De Acassuso: R2 por Barrio Golf a Estación BsAs,1
+59,B,Ramal 2 - Estación BsAs por Barrio Golf - Int. Cnel. A. ¡valos y D. De Acassuso: R2 por Barrio Golf a Int. Cnel. ¡valos y De Acassuso,0
+59,C,Ramal 3 - Estación BsAs - Puente Saavedra: R3 - a Estación Buenos Aires,1
+59,C,Ramal 3 - Estación BsAs - Puente Saavedra: R3 - a Puente Saavedra,0
+59,D,Expreso - Estación BsAs por Autopista A Int. Cnel. Amaro ¡valos y D. De Acassuso: Expreso - a Estación BsAs por Autopista,1
+59,D,Expreso - Estación BsAs por Autopista A Int. Cnel. Amaro ¡valos y D. De Acassuso: Expreso - a Int. Cnel. ¡valos y De Acassuso,0
+5,A,Av. Piedrabuena y Saraza - Pto. Nuevo: a Lacarra,1
+5,A,Av. Piedrabuena y Saraza - Pto. Nuevo: a Retiro,0
+5,A,Barrio 41 Viviendas-Barrio Bajada Grande: Barrio 41 Viviendas,1
+5,A,Barrio 41 Viviendas-Barrio Bajada Grande: Barrio Bajada Grande,0
+5,B,Piedrabuena: a Piedrabuena,1
+5,B,Piedrabuena: a Retiro,0
+5,B,Club Belgrano-Bajada Grande: Bajada Grande,0
+5,B,Club Belgrano-Bajada Grande: Club Belgrano,1
+60,C,C - Barracas - Estación Vicente Lopez: C - a Constitución,1
+60,C,C - Barracas - Estación Vicente Lopez: C - Estación Vicente López,0
+60,F,F - Barracas por Alto San Isidro y Alto Tigre - Rincon de Milberg: a Constitución,1
+60,F,F - Barracas por Alto San Isidro y Alto Tigre - Rincon de Milberg: Alto A,0
+60,G,G - Barracas - Estación Vicente Lopez: a Constitución,1
+60,G,G - Barracas - Estación Vicente Lopez: hasta Puente Saavedra,0
+60,H,H - Barracas por Alto San Isidro y Bajo Tigre - Rincón de Milberg: a Constitución,1
+60,H,H - Barracas por Alto San Isidro y Bajo Tigre - Rincón de Milberg: Alto R,0
+61,A,Plaza Constitución: Plaza Constitución - IDA,0
+62,A,Plaza Constitución: Pza Constitución - IDA,0
+63,A,Belgrano (CABA) ñ V. Madero por Lisandro de la Torre: a Belgrano (CABA) por LdelaTorre,1
+63,A,Belgrano (CABA) ñ V. Madero por Lisandro de la Torre: a V. Madero por LdelaTorre,0
+63,B,Belgrano (CABA) ñ V. Madero por Cnel. Pagola: a Belgrano (CABA) por Pagola,1
+63,B,Belgrano (CABA) ñ V. Madero por Cnel. Pagola: a V. Madero por Pagola,0
+64,A,La Boca - Estación Belgrano por Hospital Militar: a Estación Belgrano por Hospital Militar,0
+64,A,La Boca - Estación Belgrano por Hospital Militar: a La Boca,1
+64,B,La Boca - Estación Belgrano por Hipodromo: a Estación Belgrano por Hipodromo,0
+64,B,La Boca - Estación Belgrano por Hipodromo: a La Boca,1
+64,C,Av. Paseo Colón y Av. Juan de Garay - Estación Belgrano: a Av. Paseo Colón y Av. Juan de Garay,1
+64,C,Av. Paseo Colón y Av. Juan de Garay - Estación Belgrano: a Estación Belgrano,0
+64,D,Av. Paseo Colón y Av. Juan de Garay - Estación Belgrano por Hipodromo: a Av. Paseo Colón y Av. Juan de Garay,1
+64,D,Av. Paseo Colón y Av. Juan de Garay - Estación Belgrano por Hipodromo: a Estación Belgrano por Hipodromo,0
+65,A,Plaza Constitución - Estación Belgrano: a Bcas. de Belgrano,0
+65,A,Plaza Constitución - Estación Belgrano: a Plaza Constitución,1
+65,B,Estación Avellaneda - Estación Mitre: a Bcas. de Belgrano,0
+65,B,Estación Avellaneda - Estación Mitre: a Estación Avellaneda,1
+67,A,Hospital Rawson - Villa Martelli por Viaducto Carranza: a Hospital Rawson por Viaducto Carranza,1
+67,A,Hospital Rawson - Villa Martelli por Viaducto Carranza: a Villa Martelli por Viaducto Carranza,0
+68,A,Plaza Miserere - Estación Vicente López: 1 a Puente Saavedra por Viaducto,0
+68,A,Plaza Miserere - Estación Vicente López: a Once,1
+68,B,Plaza Miserere - Puente Saavedra: 2 a Puente Saavedra por Dorrego,0
+68,B,Plaza Miserere - Puente Saavedra: a Once,1
+6,A,Retiro - Villa Soldati por Av. Caseros: a Retiro por Av. Caseros,1
+6,A,Retiro - Villa Soldati por Av. Caseros: a Villa Soldati por Av. Caseros,0
+6,B,Retiro - Villa Soldati por Av. Brasil: a Retiro por Brasil,1
+6,B,Retiro - Villa Soldati por Av. Brasil: a Soldati por Brasil,0
+6,C,Retiro - Nueva Pompeya por Av. Caseros: a Nueva Pompeya por Av. Caseros,0
+6,C,Retiro - Nueva Pompeya por Av. Caseros: a Retiro por Av. Caseros,1
+6,D,Retiro - Nueva Pompeya por Av. Brasil: a Pompeya por Brasil,0
+6,D,Retiro - Nueva Pompeya por Av. Brasil: a Retiro por Brasil,1
+70,A,Ramal 1: a Pompeya,1
+70,A,Ramal 1: a Retiro,0
+70,B,Barracas - Retiro: a Retiro,0
+70,B,Barracas - Retiro: a V. Alsina,1
+71,A,Plaza Miserere - Estación Villa Adelina por C. Larralde y Av. Maipu: a Miserere por C. Larralde y Maipu,1
+71,A,Plaza Miserere - Estación Villa Adelina por C. Larralde y Av. Maipu: a V. Adelina por C. Larralde y Maipu,0
+71,B,Plaza Miserere - Estación Villa Adelina por Autopista Palazzo: a Miserere por Panamericana,1
+71,B,Plaza Miserere - Estación Villa Adelina por Autopista Palazzo: a V. Adelina por Panamericana,0
+71,C,Plaza Miserere - Estación Villa Adelina por Av. Congreso y Av. Maipu: a Miserere por A. Congreso y Maipu,1
+71,C,Plaza Miserere - Estación Villa Adelina por Av. Congreso y Av. Maipu: a V. Adelina por Av. Congreso y Maipu,0
+74,A,Pto. de Bs. As. - Burzaco: a Burzaco,0
+74,A,Pto. de Bs. As. - Burzaco: a Pto. de Bs.As.,1
+75,A,Retiro - Lanus: a Pompeya - Estación Lanus,0
+75,A,Retiro - Lanus: a Retiro,1
+75,B,Retiro - Lanus: a Retiro,1
+75,B,Retiro - Lanus: M - Remedios de Escalada,0
+76,A,Nueva Pompeya - Saavedra por Av. Fco. Férnandez de la Cruz: a Philips,0
+76,A,Nueva Pompeya - Saavedra por Av. Fco. Férnandez de la Cruz: a Rabanal por Saenz,1
+76,B,Nueva Pompeya - Saavedra por Ana María Janer: a Philips,0
+76,B,Nueva Pompeya - Saavedra por Ana María Janer: a Rabanal por Saenz,1
+78,A,Chacarita - Villa Adelina por Estación Ballester: a Chacarita,1
+78,A,Chacarita - Villa Adelina por Estación Ballester: a Villa Adelina por Estación Ballester,0
+78,B,Chacarita - Villa Adelina por Estación Chilavert: a Chacarita,1
+78,B,Chacarita - Villa Adelina por Estación Chilavert: a Villa Adelina por Estación Chilavert,0
+78,C,Chacarita - Loma Hermosa: a Chacarita,1
+78,C,Chacarita - Loma Hermosa: a Loma Hermosa,0
+79,A,A - Plaza Constitución - San Vicente: A - Plaza Constitución,1
+79,A,A - Plaza Constitución - San Vicente: A - San Vicente,0
+79,B,B - Plaza Constitución - Guernica: B - Guernica,0
+79,B,B - Plaza Constitución - Guernica: B - Plaza Constitución,1
+79,C,C - Plaza Constitución - Numancia: C - Plaza Constitución,1
+79,C,C - Plaza Constitución - Numancia: C- Numancia,0
+79,D,D - Plaza Constitución - Claypole: D - Claypole,0
+79,D,D - Plaza Constitución - Claypole: D - Plaza Constitución,1
+79,E,E - Plaza Constitución - Rayo de Sol: E - Plaza Constitución,1
+79,E,E - Plaza Constitución - Rayo de Sol: E - Rayo de Sol,0
+79,F,F - Plaza Constitución - Calzada: F - Calzada,0
+79,F,F - Plaza Constitución - Calzada: F - Plaza Constitución,1
+79,G,G - Plaza Constitución - San José: G - Plaza Constitución,1
+79,G,G - Plaza Constitución - San José: G - San José,0
+79,H,H - Plaza Constitución - Varela: H - Plaza Constitución,1
+79,H,H - Plaza Constitución - Varela: H - Varela,0
+79,I,I - Plaza Constitución - Almirante Brown: I - Almirante Brown,0
+79,I,I - Plaza Constitución - Almirante Brown: I - Plaza Constitución,1
+79,J,J - Plaza Constitución - Burzaco: J - Burzaco,0
+7A,A,Retiro - Parque Nicolas Avellaneda : a Parque Avellaneda,0
+7A,A,Retiro - Parque Nicolas Avellaneda: a Parque Avellaneda,0
+7A,A,Retiro - Parque Nicolas Avellaneda: a Retiro,1
+7B,B,Retiro - Barrio Samoré: a Barrio Samore,0
+7B,B,Retiro - Barrio Samoré: a B¬. Samore,0
+7B,B,Retiro - Barrio Samoré: a B¬. Samore,0
+7B,B,Retiro - Barrio Samoré: a B¬. Samore,0
+7B,B,Retiro - Barrio Samoré: a Retiro,1
+7B,B,Retiro - Barrio Samoré: a Retiro,1
+80,A,Barrio Sarmiento - Bcas. de Belgrano por Murgiondo: a Barrio Sarmiento por Murguiondo,0
+80,A,Barrio Sarmiento - Bcas. de Belgrano por Murgiondo: a Bcas. Belgrano por Murguiondo,1
+80,B,Barrio Sarmiento - Bcas. de Belgrano por Piedrabuena: a Barrio Sarmiento por Piedrabuena,0
+80,B,Barrio Sarmiento - Bcas. de Belgrano por Piedrabuena: a Bcas. Belgrano por Piedrabuena,1
+80,C,Liniers - Bcas. de Belgrano: a Bcas. Belgrano,0
+80,C,Liniers - Bcas. de Belgrano: a hasta Liniers,1
+80,D,Barrio Sarmiento - Rivadavia y General Paz: a Barrio Sarmiento por Piedrabuena,0
+80,D,Barrio Sarmiento - Rivadavia y General Paz: a Hasta Liniers por Piedrabuena,1
+80,E,Liniers - Virrey Vertiz y Juramento: hasta Liniers,0
+80,E,Liniers - Virrey Vertiz y Juramento: Semi Rapido a Bcas Belgrano,1
+84,A,Lamarca - Plaza Constitucón: a Constitución,1
+84,A,Lamarca - Plaza Constitucón: a Lamarca,0
+85,A,Balneario de Quilmes - Ciudadela Norte por Puente Ag¸ero: a Balneario de Quilmes,1
+85,A,Balneario de Quilmes - Ciudadela Norte por Puente Ag¸ero: a Ciudadela Norte por Puente Ag¸ero,0
+85,B,Balneario de Quilmes - Ciudadela Norte por Puente Gerli: a Balneario de Quilmes,1
+85,B,Balneario de Quilmes - Ciudadela Norte por Puente Gerli: a Ciudadela Norte por Puente Gerli,0
+85,C,Balneario de Quilmes - Ciudadela Norte: a Balneario de Quilmes,1
+85,C,Balneario de Quilmes - Ciudadela Norte: a Ciudadela Norte,0
+85,D,Pompeya - Ciudadela Norte: a Ciudadela Norte,0
+85,D,Pompeya - Ciudadela Norte: a Pompeya,1
+86,A,La Boca - González Catán por Liniers y Ruta Provincial 21: a González Catán por Liniers y Ruta Provincial 21,0
+86,A,La Boca - González Catán por Liniers y Ruta Provincial 21: a La Boca,1
+86,B,La Boca - González Catán por Liniers y Ruta Provincial 3: a González Catán por Liniers y Ruta Provincial 3,0
+86,B,La Boca - González Catán por Liniers y Ruta Provincial 3: a La Boca,1
+86,C,La Boca - González Catán por Pergamino y RN 3: a González Catán por Pergamino y RN 3,0
+86,C,La Boca - González Catán por Pergamino y RN 3: a La Boca,1
+86,D,La Boca - Villegas por Pergamino: a La Boca,1
+86,D,La Boca - Villegas por Pergamino: a Villegas por Pergamino,0
+86,D,La Boca - Villegas por Pergamino: a Villegas por Pergamino,0
+86,E,Primera Junta - Estación González Catán por Pergamino y RN 3: a Estación González Catán por Pergamino y RN 3,0
+86,E,Primera Junta - Estación González Catán por Pergamino y RN 3: a Primera Junta,1
+86,F,Primera Junta - Estación González Catán por Pergamino y Ruta Provincial 21: a Estación González Catán por Pergamino y Ruta Provincial 21,0
+86,F,Primera Junta - Estación González Catán por Pergamino y Ruta Provincial 21: a Primera Junta,1
+86,G,La Boca - González Catán por Autopista 25 de Mayo y RN 3: a González Catán por Autopista 25 de Mayo y RN 3,0
+86,G,La Boca - González Catán por Autopista 25 de Mayo y RN 3: a La Boca,1
+86,H,La Boca - González Catán por Autopista 25 de Mayo y Ruta Provincial 21: a González Catán por Autopista 25 de Mayo y Ruta Provincial 21,0
+86,H,La Boca - González Catán por Autopista 25 de Mayo y Ruta Provincial 21: a La Boca,1
+87,A,Chacarita - San Martin por Autopista: a Chacarita,1
+87,A,Chacarita - San Martin por Autopista: a San Martin por Autopista,0
+87,B,Chacarita - San Martin: a Chacarita,1
+87,B,Chacarita - San Martin: a San Martin,0
+87,C,Chacarita - Barrio San Isidro: a Barrio San Isidro,0
+87,C,Chacarita - Barrio San Isidro: a Chacarita,1
+88,A,Ramal A - Plaza Miserere por Av. Rivadavia - Lobos: Ramal A - Lobos,0
+88,A,Ramal A - Plaza Miserere por Av. Rivadavia - Lobos: Ramal A - Plaza Miserere por Av. Rivadavia,1
+88,B,Ramal B - Plaza Miserere por Av. J. Barrio Alberdi - Lobos: Ramal B - Lobos,0
+88,B,Ramal B - Plaza Miserere por Av. J. Barrio Alberdi - Lobos: Ramal B - Plaza Miserere por Av. J. Barrio Alberdi,1
+88,C,Ramal C - Plaza Miserere por Av. Rivadavia y RN 205 - Estación Cañuelas: Ramal C - Estación Cañuelas,0
+88,C,Ramal C - Plaza Miserere por Av. Rivadavia y RN 205 - Estación Cañuelas: Ramal C - Plaza Miserere por Av. Rivadavia y RN 205,1
+88,D,Ramal D - Plaza Miserere por Av. J. Barrio Alberdi y RN 205 - Estación Cañuelas: Ramal D - Estación Cañuelas,0
+88,D,Ramal D - Plaza Miserere por Av. J. Barrio Alberdi y RN 205 - Estación Cañuelas: Ramal D - Pza Miserere por Av J.Barrio Alberdi y RN 205,1
+88,E,Ramal E - Plaza Miserere por Av. Rivadavia - RN 3: Ramal E - Plaza Miserere por Av. Rivadavia,1
+88,E,Ramal E - Plaza Miserere por Av. Rivadavia - RN 3: Ramal E - RN 3 por Rivadavia,0
+88,F,Ramal F - Plaza Miserere por Av. J. Barrio Alberdi - RN 3: Ramal F - Plaza Miserere por Av. J. Barrio Alberdi,1
+88,F,Ramal F - Plaza Miserere por Av. J. Barrio Alberdi - RN 3: Ramal F - RN 3 por Alberdi,0
+88,G,Ramal G - Plaza Miserere por Av. Rivadavia - RN 3: Ramal G - Plaza Miserere por Av. Rivadavia,1
+88,G,Ramal G - Plaza Miserere por Av. Rivadavia - RN 3: Ramal G - RN 3 por Rivadavia,0
+88,H,Ramal H - Plaza Miserere por Av. J. Barrio Alberdi - RN 3: Ramal H - Plaza Miserere por Av. J. Barrio Alberdi,1
+88,H,Ramal H - Plaza Miserere por Av. J. Barrio Alberdi - RN 3: Ramal H - RN 3 por Alberdi,0
+88,I,Ramal I - Plaza Miserere por Av. Rivadavia - Barrio Rayo de Sol: Ramal I - Barrio Rayo de Sol por Rivadavia,0
+88,I,Ramal I - Plaza Miserere por Av. Rivadavia - Barrio Rayo de Sol: Ramal I - Plaza Miserere por Av. Rivadavia,1
+88,J,Ramal J - Plaza Miserere por Av. J. Barrio Alberdi - Barrio Rayo de Sol: Ramal J - Barrio Rayo de Sol por Alberdi,0
+88,J,Ramal J - Plaza Miserere por Av. J. Barrio Alberdi - Barrio Rayo de Sol: Ramal J - Plaza Miserere por Av. J. Barrio Alberdi,1
+88,K,Ramal K - Plaza Miserere por Av. Rivadavia - Barrio Jorge Newbery: Ramal K - Barrio Jorge Newbery por Rivadavia,0
+88,K,Ramal K - Plaza Miserere por Av. Rivadavia - Barrio Jorge Newbery: Ramal K - Plaza Miserere por Av. Rivadavia,1
+88,L,Ramal L - Plaza Miserere por Av. J. Barrio Alberdi- Barrio Jorge Newbery: Ramal L  - Barrio Jorge Newbery por Alberdi,0
+88,L,Ramal L - Plaza Miserere por Av. J. Barrio Alberdi- Barrio Jorge Newbery: Ramal L - Plaza Miserere por Av. J. Barrio Alberdi,1
+88,M,M-Expreso por Autopista - Plaza Miserere - Av. Brig. y General J. M. de Rosas: M - Expreso por Autop (Av. Brig. General JM de Rosas),0
+88,M,M-Expreso por Autopista - Plaza Miserere - Av. Brig. y General J. M. de Rosas: M-Expreso por Autopista - Plaza Miserere,1
+88,N,N-Expreso por Autopista y Av. Gral Rojo - Plaza Miserere - Av. Brig. y General J. M. de Rosas: N - Expreso por Autopista(Av. Brig. General JM de Rosas),0
+88,N,N-Expreso por Autopista y Av. Gral Rojo - Plaza Miserere - Av. Brig. y General J. M. de Rosas: N-Expreso por Autopista y Av. Gral Rojo-Plaza Miserere,1
+8,A,La Boca - Aerop. Ezeiza: a Hospital Argerich por Liniers,1
+8,A,La Boca - Aerop. Ezeiza: a mercado central por Liniers,0
+8,B,La Boca - Mercado Central: a Retiro,1
+8,B,La Boca - Mercado Central: a Soldati,0
+8,C,La Boca - Liniers: a Aerop. por Liniers,0
+8,C,La Boca - Liniers: a Hospital Argerich por Liniers,1
+8,D,Av. Paseo Colón y Cochabamba por Autopista - Estación Liniers: a Hospital Argerich por Liniers,1
+8,D,Av. Paseo Colón y Cochabamba por Autopista - Estación Liniers: a Liniers,0
+8,E,Av. De Mayo y Peru - Aerop. Ezeiza - Expreso por Autop: a EZEIZA - Expreso por Autop,0
+8,E,Av. De Mayo y Peru - Aerop. Ezeiza - Expreso por Autop: a PLAZA de MAYO - Expreso por Autop,1
+90,A,Plaza Constitución - Av. San Martin y General Paz: a Av. San Martin y General Paz,0
+90,A,Plaza Constitución - Av. San Martin y General Paz: a Plaza Constitución,1
+90,B,Plaza Constitución - Estación F. Lacroze: a Estación F. Lacroze,0
+90,B,Plaza Constitución - Estación F. Lacroze: a Plaza Constitución,1
+91,A,Retiro - Villegas: a Retiro,1
+91,A,Retiro - Villegas: a Villegas,0
+91,B,Retiro - Villegas: a Retiro,1
+91,B,Retiro - Villegas: a Villegas,0
+91,C,Nueva Pompeya - Villegas: a Nueva Pompeya,1
+91,C,Nueva Pompeya - Villegas: a Villegas,0
+91,D,Plaza Constitución - Villegas: a Constitución,1
+91,D,Plaza Constitución - Villegas: a Villegas,0
+91,E,Plaza Constitución - Villegas: a Plaza Constitucínon,1
+91,E,Plaza Constitución - Villegas: a Villegas,0
+91,F,Expreso - Bdo. de Irigoyen y Av. Independecia - Villegas: a Plaza de Mayo,1
+91,F,Expreso - Bdo. de Irigoyen y Av. Independecia - Villegas: a Villegas,0
+92,A,Ramal A - Retiro - Barrio 9 de Abril: a Barrio 9 de Abril,0
+92,A,Ramal A - Retiro - Barrio 9 de Abril: Ramal A - Retiro,1
+92,B,Ramal B - Retiro - Puente 12: a Puente 12,0
+92,B,Ramal B - Retiro - Puente 12: Ramal B - Retiro,1
+92,C,C-Expreso - Retiro - Av. Eva Perón y Av. General Paz: Expreso - Eva Perón y General Paz,0
+92,C,C-Expreso - Retiro - Av. Eva Perón y Av. General Paz: Expreso - Retiro,1
+92,D,D-Expreso - Plaza Flores - Barrio 9 de Abril: a Barrio 9 de Abril,0
+92,D,D-Expreso - Plaza Flores - Barrio 9 de Abril: D-Expreso - Plaza Flores,1
+93,A,Ramal A - Munro - Avellaneda: a Avellaneda,0
+93,A,Ramal A - Munro - Avellaneda: Ramal A - Munro,1
+93,B,Ramal B - Munro por Eduardo Sivori - Avellaneda: a Avellaneda,0
+93,B,Ramal B - Munro por Eduardo Sivori - Avellaneda: Ramal B - Munro por Eduardo Sivori,1
+93,C,Ramal C - Coghlan - Avellaneda: a Avellaneda,0
+93,C,Ramal C - Coghlan - Avellaneda: Ramal C - Coghlan,1
+95,A,Palermo - Avellaneda: Ramal 1 - IDA,0
+95,A,Palermo - Avellaneda: Ramal 1 - VUELTA,1
+95,B,Palermo por Av. J. de Garay y Av. Belgrano - Avellaneda: Ramal 2 por Av Mitre-Pza Constitución a Avellaneda,1
+95,B,Palermo por Av. J. de Garay y Av. Belgrano - Avellaneda: Ramal 2 por Av. Mitre - Plaza Constitución a Palermo,0
+96,A,Plaza Constitución por Av. Rivadavia - Pontevedra: a Pontevedra,0
+96,A,Plaza Constitución por Av. Rivadavia - Pontevedra: a Plaza Constitución por Av. Rivadavia,1
+96,AA,Expreso por Autopista - Plaza Constitución - Pontevedra: a Pontevedra,0
+96,AA,Expreso por Autopista - Plaza Constitución - Pontevedra: Expreso por Autopista - Plaza Constitución,1
+96,AB,Expreso por Av. Alberdi - Plaza Constitución - Pontevedra: a Pontevedra,0
+96,AB,Expreso por Av. Alberdi - Plaza Constitución - Pontevedra: Expreso por Av. Alberdi - Plaza Constitución,1
+96,AC,Expreso por Autopista - Plaza Constitución - Estación Rafael Castillo: a Estación Rafael Castillo,0
+96,AC,Expreso por Autopista - Plaza Constitución - Estación Rafael Castillo: a Expreso por Autopista - Plaza Constitución,1
+96,AD,Expreso por Autopista y Pto. Moreno - Plaza Constitución - Barrio San Alberto: a Barrio San Alberto,0
+96,AD,Expreso por Autopista y Pto. Moreno - Plaza Constitución - Barrio San Alberto: Expreso por Autopista y Pto. Moreno - Pza Constitución,1
+96,AE,Expreso por Autopista - Plaza Constitución- Villa Scasso: a Expreso por Autopista,1
+96,AE,Expreso por Autopista - Plaza Constitución- Villa Scasso: a Villa Scasso,0
+96,AF,Expreso por Av. Alberdi - Plaza Constitución - Villa Scasso: a Expreso por Av. Alberdi - Plaza Constitución,1
+96,AF,Expreso por Av. Alberdi - Plaza Constitución - Villa Scasso: a Villa Scasso,0
+96,AG,Expreso por Autopista 25deMayo y AU1 - Plaza Constitución - Barrio Esperanza: a Barrio Esperanza,0
+96,AG,Expreso por Autopista 25deMayo y AU1 - Plaza Constitución - Barrio Esperanza: Expreso por Autopista 25deMayo y AU1 - Plaza Constitución,1
+96,AH,Expreso por Autopista 25deMayo y AU1 - Plaza Constitución - Estación Laferrere: a Estación Laferrere,0
+96,AH,Expreso por Autopista 25deMayo y AU1 - Plaza Constitución - Estación Laferrere: a Expreso por Autopista 25deMayo y AU1 - Pza Constitución,1
+96,B,Plaza Constitución - Estación González Catán: a Estación González Catán,0
+96,B,Plaza Constitución - Estación González Catán: a Plaza Constitución,1
+96,C,Plaza Constitución por Av. Rivadavia - Estación Rafael Castillo: a Estación Rafael Castillo,0
+96,C,Plaza Constitución por Av. Rivadavia - Estación Rafael Castillo: a Plaza Constitución por Av. Rivadavia,1
+96,D,Plaza Constitución por Av. Rivadavia - Barrio San Alberto: a Barrio San Alberto,0
+96,D,Plaza Constitución por Av. Rivadavia - Barrio San Alberto: a Plaza Constitución por Av. Rivadavia,1
+96,E,Plaza Constitución - Barrio La Foresta: a Barrio La Foresta,0
+96,E,Plaza Constitución - Barrio La Foresta: a Plaza Constitución,1
+96,F,Plaza Constitución por Av. Rivadavia - Villa Scasso: a Plaza Constitución por Av. Rivadavia,1
+96,F,Plaza Constitución por Av. Rivadavia - Villa Scasso: a Villa Scasso,0
+96,G,Plaza Constitución por Av. Rivadavia - Barrio Esperanza: a Barrio Esperanza,0
+96,G,Plaza Constitución por Av. Rivadavia - Barrio Esperanza: a Plaza Constitución por Av. Rivadavia,1
+96,H,Plaza Constitución por Av. Rivadavia - Estación Laferrere: a Estación Laferrere,0
+96,H,Plaza Constitución por Av. Rivadavia - Estación Laferrere: a Plaza Constitución por Av. Rivadavia,1
+96,I,Plaza Constitución por Av. Rivadavia - Estación Laferrere: a Estación Laferrere,0
+96,I,Plaza Constitución por Av. Rivadavia - Estación Laferrere: a Plaza Constitución por Av. Rivadavia,1
+96,J,Primera Junta por Av. Rivadavia - Pontevedra: a Pontevedra,0
+96,J,Primera Junta por Av. Rivadavia - Pontevedra: a Primera Junta por Av. Rivadavia,1
+96,K,Primera Junta por KM32 - Estación González Catán: a Estación González Catán,0
+96,K,Primera Junta por KM32 - Estación González Catán: a Primera Junta por KM32,1
+96,L,Primera Junta por Av. Rivadavia - Estación Rafael Castilo: a Estación Rafael Castilo,0
+96,L,Primera Junta por Av. Rivadavia - Estación Rafael Castilo: a Primera Junta por Av. Rivadavia,1
+96,M,Primera Junta por Av. Rivadavia - Barrio San Alberto: a Barrio San Alberto,0
+96,M,Primera Junta por Av. Rivadavia - Barrio San Alberto: a Primera Junta por Av. Rivadavia,1
+96,N,Primera Junta - Barrio La Foresta: a Barrio La Foresta,0
+96,N,Primera Junta - Barrio La Foresta: a Primera Junta,1
+96,n,Primera Junta por Av. Rivadavia - Barrio Esperanza: a Barrio Esperanza,0
+96,n,Primera Junta por Av. Rivadavia - Barrio Esperanza: a Primera Junta por Av. Rivadavia,1
+96,O,Primera Junta por Av. Rivadavia - Estación Laferrere: a Estación Laferrere,0
+96,O,Primera Junta por Av. Rivadavia - Estación Laferrere: a Primera Junta por Av. Rivadavia,1
+96,P,Primera Junta por Av. Rivadavia - - Estación Laferrere: a Estación Laferrere,0
+96,P,Primera Junta por Av. Rivadavia - - Estación Laferrere: a Primera Junta por Av. Rivadavia -,1
+96,Q,Primera Junta por Av. Rivadavia - - Estación Laferrere: a Estación Laferrere,0
+96,Q,Primera Junta por Av. Rivadavia - - Estación Laferrere: a Primera Junta por Av. Rivadavia -,1
+96,R,Liniers - Pontevedra: a Liniers,1
+96,R,Liniers - Pontevedra: a Pontevedra,0
+96,S,Liniers - Estación González Catán: a Estación González Catán,0
+96,S,Liniers - Estación González Catán: a Liniers,1
+96,T,Liniers - Estación Rafael Castillo: a Estación Rafael Castillo,0
+96,T,Liniers - Estación Rafael Castillo: a Liniers,1
+96,U,Liniers - Barrio San Alberto: a Barrio San Alberto,0
+96,U,Liniers - Barrio San Alberto: a Liniers,1
+96,V,Liniers - Barrio la ForEstación: a Barrio la ForEstación,0
+96,V,Liniers - Barrio la ForEstación: a Liniers,1
+96,W,Liniers - Villa Scasso: a Liniers,1
+96,W,Liniers - Villa Scasso: a Villa Scasso,0
+96,X,Liniers - Barrio Esperanza: a Barrio Esperanza,0
+96,X,Liniers - Barrio Esperanza: a Liniers,1
+96,Y,Liniers por RN 3 - Estación Laferrere: a Estación Laferrere,0
+96,Y,Liniers por RN 3 - Estación Laferrere: a Liniers por RN 3,1
+96,Z,Liniers por RN 3 - Estación Laferrere: a Estación Laferrere,0
+96,Z,Liniers por RN 3 - Estación Laferrere: a Liniers por RN 3,1
+97,A,Constitución - Estación Morón: a Constitución,1
+97,A,Constitución - Estación Morón: a Estación Morón,0
+97,B,Constitución - Mercado Central (Aldo Bonzi): a Constitución,1
+97,B,Constitución - Mercado Central (Aldo Bonzi): a Mercado Central (Aldo Bonzi),0
+97,C,Constitución - Barrio San Alberto: a Barrio San Alberto,0
+97,C,Constitución - Barrio San Alberto: a Constitución,1
+98,A,Balneario de Quilmes: 1 a Balneario Quilmes,0
+98,A,Balneario de Quilmes: a Once,1
+98,B,Balneario de Quilmes: 2 a Balneario Quilmes,0
+98,B,Balneario de Quilmes: a Once,1
+98,C,Villa España: 3 (Verde) a Villa España,0
+98,C,Villa España: a Once,1
+98,D,Villa España: 3 (Negro) a Villa España,0
+98,D,Villa España: a Once,1
+98,E,Villa España: 5 a Villa España,0
+98,E,Villa España: a Once,1
+98,F,Barrio Grafico: 116 a Barrio Gráfico,0
+98,F,Barrio Grafico: a Once,1
+99,A,Av. J. Barrio Justo y Gallardo - Pto. Bs. As.: a Correo Central,0
+99,A,Av. J. Barrio Justo y Gallardo - Pto. Bs. As.: Velez Sarsfield,1
+9,A,Retiro por José María Moreno - Villa Caraza: a Retiro por J.M. Moreno,1
+9,A,Retiro por José María Moreno - Villa Caraza: a Villa Caraza por J.M. Moreno,0
+9,B,Retiro por Cnel. Castro - Villa Caraza: a Retiro por Cnel. Castro,1
+9,B,Retiro por Cnel. Castro - Villa Caraza: a Villa Caraza por Cnel Castro,0
+9,C,Expreso - Retiro por José Maria Moreno - Puente Olímpico Ribera Sur: a Tnal. de Ómnibus de Retiro,1
+9,C,Expreso - Retiro por José Maria Moreno - Puente Olímpico Ribera Sur: a Villa Caraza (Pdo. de Lan˙s),0
